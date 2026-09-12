@@ -69,6 +69,12 @@ Oasis_Internship/
 
 ---
 
+## 🎬 Demo Video
+
+**Watch the full demo:** [Oasis Internship Demo Video](https://drive.google.com/file/d/1z1xszwwGgR_e-2Gj41OJ1__Byrs8k3Ob/view?usp=sharing)
+
+---
+
 ## 👤 Author
 
 **linishamalviya04**  
