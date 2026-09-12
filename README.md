@@ -1,6 +1,6 @@
 # Oasis Infobyte SIP - Data Analytics Internship
 
-**Intern:** linishamalviya04  
+**Intern:** Linisha Malviya 
 **Track:** Data Analytics  
 **Duration:** Level 1 & Level 2 Tasks  
 
