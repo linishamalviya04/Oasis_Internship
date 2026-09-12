@@ -1,0 +1,1051 @@
+customer_id,name,age,gender,email,phone,signup_date,last_purchase,total_spent,purchase_count,city,subscription_status
+1,Customer_1,56,Female,user1@email.com,+1-555-150-1140,2020-01-01,2021-01-01,999999.0,5,Phoenix,ACTIVE
+2,Customer_2,69,F,user2@email.com,+1-555-569-5882,2020-01-02,2021-01-02,-500.0,3,Chi,Active
+3,Customer_3,200,Female,user3@email.com,+1-555-901-7012,2020-01-03,2021-01-03,40.85,4,Houston,active
+4,Customer_4,32,male,user4@email.com,+1-555-472-4610,2020-01-04,2021-01-04,393.18,2,New York,ACTIVE
+5,Customer_5,60,Female,user5@email.com,+1-555-768-7894,2020-01-05,2021-01-05,617.77,2,Phoenix,Active
+6,Customer_6,25,Male,user6@email.com,+1-555-255-8311,2020-01-06,2021-01-06,91.55,7,Los Angeles,cancelled
+7,Customer_7,78,Male,user7@email.com,+1-555-205-6539,2020-01-07,2021-01-07,758.5,3,New York,inactive
+8,Customer_8,38,Male,user8@email.com,+1-555-769-7787,2020-01-08,2021-01-08,438.26,1,LA,nan
+9,Customer_9,56,Male,user9@email.com,+1-555-189-5445,2020-01-09,2021-01-09,1520.59,3,Houston,Inactive
+10,Customer_10,75,Male,,+1-555-558-2286,2020-01-10,2021-01-10,21.67,7,Chi,Active
+11,Customer_11,36,M,user11@email.com,+1-555-450-8052,2020-01-11,2021-01-11,154.16,5,LA,active
+12,Customer_12,40,Female,user12@email.com,+1-555-258-4654,2020-01-12,2021-01-12,460.09,5,NYC,Active
+13,Customer_13,28,F,user13@email.com,+1-555-411-9105,2020-01-13,2021-01-13,175.89,4,New York,nan
+14,Customer_14,28,nan,user14@email.com,+1-555-544-7441,2020-01-14,2021-01-14,626.62,5,Chicago,Active
+15,Customer_15,41,Female,user15@email.com,invalid,2020-01-15,2021-01-15,711.49,5,New York,ACTIVE
+16,Customer_16,70,F,user16@email.com,+1-555-135-6203,2020-01-16,2021-01-16,54.08,3,Chi,active
+17,Customer_17,53,F,user17@email.com,+1-555-551-2798,2020-01-17,2021-01-17,360.62,3,New York,Inactive
+18,Customer_18,57,Female,user18@email.com,+1-555-921-6291,2020-01-18,2021-01-18,355.54,6,Los Angeles,Active
+19,Customer_19,41,Male,user19@email.com,+1-555-475-7284,2020-01-19,2021-01-19,230.45,6,Houston,inactive
+20,Customer_20,20,Male,,+1-555-986-8285,2020-01-20,2021-01-20,1350.97,4,Los Angeles,active
+21,Customer_21,39,Male,user21@email.com,+1-555-376-7869,2020-01-21,2021-01-21,878.7,9,Los Angeles,Active
+22,Customer_22,70,Male,user22@email.com,+1-555-319-4097,2020-01-22,2021-01-22,597.36,6,Phoenix,nan
+23,Customer_23,19,Male,user23@email.com,+1-555-620-1009,2020-01-23,2021-01-23,626.45,5,New York,Inactive
+24,Customer_24,41,female,user24@email.com,+1-555-477-6752,2020-01-24,2021-01-24,309.68,5,New York,Inactive
+25,Customer_25,61,F,user25@email.com,+1-555-736-7295,2020-01-25,2021-01-25,1269.12,4,Chicago,active
+26,Customer_26,47,Male,user26@email.com,+1-555-819-2072,2020-01-26,2021-01-26,593.06,10,NYC,Active
+27,Customer_27,55,Male,user27@email.com,+1-555-253-2316,2020-01-27,2021-01-27,652.78,6,Phoenix,nan
+28,Customer_28,19,Male,user28@email.com,+1-555-679-7807,2020-01-28,2021-01-28,989.13,2,Chicago,Inactive
+29,Customer_29,77,Female,user29@email.com,+1-555-630-4683,2020-01-29,2021-01-29,160.15,4,Phoenix,Active
+30,Customer_30,38,Female,,invalid,2020-01-30,2021-01-30,822.72,3,Chicago,Inactive
+31,Customer_31,50,male,user31@email.com,+1-555-159-4273,2020-01-31,2021-01-31,108.61,2,Chi,inactive
+32,Customer_32,29,Female,user32@email.com,+1-555-956-1145,2020-02-01,2021-02-01,211.82,5,New York,active
+33,Customer_33,75,male,user33@email.com,+1-555-775-4040,2020-02-02,2021-02-02,204.44,6,NYC,inactive
+34,Customer_34,39,nan,user34@email.com,+1-555-538-1482,2020-02-03,2021-02-03,1920.44,5,Chi,Active
+35,Customer_35,78,Male,user35@email.com,+1-555-207-2249,2020-02-04,2021-02-04,970.84,10,LA,Active
+36,Customer_36,61,F,user36@email.com,+1-555-772-1630,2020-02-05,2021-02-05,603.94,5,New York,cancelled
+37,Customer_37,42,Female,user37@email.com,+1-555-760-9853,2020-02-06,2021-02-06,649.25,5,Los Angeles,Active
+38,Customer_38,66,Female,user38@email.com,+1-555-531-3852,2020-02-07,2021-02-07,412.85,4,NYC,cancelled
+39,Customer_39,44,Female,user39@email.com,+1-555-754-1987,2020-02-08,2021-02-08,1469.59,4,New York,Active
+40,Customer_40,76,F,,+1-555-554-8327,2020-02-09,2021-02-09,342.85,3,LA,cancelled
+41,Customer_41,59,M,user41@email.com,+1-555-622-9841,2020-02-10,2021-02-10,239.44,6,NYC,Inactive
+42,Customer_42,45,male,user42@email.com,+1-555-689-2100,2020-02-11,2021-02-11,88.99,4,NYC,inactive
+43,Customer_43,77,nan,user43@email.com,+1-555-608-9632,2020-02-12,2021-02-12,771.37,2,New York,Active
+44,Customer_44,33,M,user44@email.com,+1-555-353-6016,2020-02-13,2021-02-13,662.96,9,NYC,Active
+45,Customer_45,32,nan,user45@email.com,invalid,2020-02-14,2021-02-14,242.54,5,NYC,Active
+46,Customer_46,79,M,user46@email.com,+1-555-869-2343,2020-02-15,2021-02-15,12.76,9,LA,Active
+47,Customer_47,79,M,user47@email.com,+1-555-902-5358,2020-02-16,2021-02-16,913.17,5,New York,Inactive
+48,Customer_48,64,Female,user48@email.com,+1-555-696-7780,2020-02-17,2021-02-17,5.74,5,New York,active
+49,Customer_49,79,Male,user49@email.com,+1-555-266-7602,2020-02-18,2021-02-18,608.19,1,Chicago,active
+50,Customer_50,68,F,,+1-555-379-3349,2020-02-19,2021-02-19,1757.58,5,New York,ACTIVE
+51,Customer_51,61,Female,user51@email.com,+1-555-630-6699,2020-02-20,2021-02-20,287.83,8,Phoenix,inactive
+52,Customer_52,72,Female,user52@email.com,+1-555-317-2125,2020-02-21,2021-02-21,133.92,6,Chi,inactive
+53,Customer_53,69,nan,user53@email.com,+1-555-653-7764,2020-02-22,2021-02-22,610.17,2,Chicago,Inactive
+54,Customer_54,74,Male,user54@email.com,+1-555-135-8843,2020-02-23,2021-02-23,849.48,5,LA,Inactive
+55,Customer_55,20,Female,user55@email.com,+1-555-998-1072,2020-02-24,2021-02-24,395.3,5,New York,Inactive
+56,Customer_56,54,M,user56@email.com,+1-555-747-6472,2020-02-25,2021-02-25,1706.16,4,New York,cancelled
+57,Customer_57,68,F,user57@email.com,+1-555-990-6189,2020-02-26,2021-02-26,26.53,6,New York,Active
+58,Customer_58,24,Female,user58@email.com,+1-555-524-1707,2020-02-27,2021-02-27,351.39,5,Los Angeles,Active
+59,Customer_59,38,male,user59@email.com,+1-555-880-7704,2020-02-28,2021-02-28,633.73,6,Chi,inactive
+60,Customer_60,26,F,,invalid,2020-02-29,2021-03-01,992.58,5,New York,Active
+61,Customer_61,56,Male,user61@email.com,+1-555-927-4713,2020-03-01,2021-03-02,98.77,4,Phoenix,cancelled
+62,Customer_62,35,Male,user62@email.com,+1-555-616-3475,2020-03-02,2021-03-03,804.73,7,Houston,cancelled
+63,Customer_63,21,M,user63@email.com,+1-555-638-5255,2020-03-03,2021-03-04,402.27,5,Chi,Active
+64,Customer_64,42,Female,user64@email.com,+1-555-248-8397,2020-03-04,2021-03-05,252.55,7,New York,Active
+65,Customer_65,77,Male,user65@email.com,+1-555-811-9258,2020-03-05,2021-03-06,70.62,6,Los Angeles,Inactive
+66,Customer_66,31,Female,user66@email.com,+1-555-911-3428,2020-03-06,2021-03-07,1002.34,4,New York,inactive
+67,Customer_67,67,Female,user67@email.com,+1-555-157-8426,2020-03-07,2021-03-08,85.56,8,Chicago,Active
+68,Customer_68,75,Female,user68@email.com,+1-555-441-6249,2020-03-08,2021-03-09,185.38,4,Los Angeles,ACTIVE
+69,Customer_69,26,Female,user69@email.com,+1-555-826-6291,2020-03-09,2021-03-10,171.28,3,Chi,active
+70,Customer_70,43,Female,,+1-555-869-4874,2020-03-10,2021-03-11,1025.58,5,Phoenix,Inactive
+71,Customer_71,70,Female,user71@email.com,+1-555-453-5211,2020-03-11,2021-03-12,558.44,10,Phoenix,Active
+72,Customer_72,19,M,user72@email.com,+1-555-363-1661,2020-03-12,2021-03-13,796.49,6,Houston,ACTIVE
+73,Customer_73,37,Male,user73@email.com,+1-555-911-4374,2020-03-13,2021-03-14,144.15,4,New York,Active
+74,Customer_74,45,M,user74@email.com,+1-555-410-1207,2020-03-14,2021-03-15,490.25,3,Chicago,cancelled
+75,Customer_75,64,Female,user75@email.com,invalid,2020-03-15,2021-03-16,424.02,3,nan,Inactive
+76,Customer_76,77,female,user76@email.com,+1-555-717-3493,2020-03-16,2021-03-17,894.37,5,LA,active
+77,Customer_77,24,Female,user77@email.com,+1-555-769-1632,2020-03-17,2021-03-18,1182.69,2,Chi,cancelled
+78,Customer_78,61,nan,user78@email.com,+1-555-154-4083,2020-03-18,2021-03-19,6.12,6,LA,cancelled
+79,Customer_79,78,M,user79@email.com,+1-555-756-4719,2020-03-19,2021-03-20,560.46,2,New York,Inactive
+80,Customer_80,25,Male,,+1-555-614-2679,2020-03-20,2021-03-21,26.61,5,Los Angeles,Active
+81,Customer_81,64,male,user81@email.com,+1-555-641-1236,2020-03-21,2021-03-22,397.99,2,New York,ACTIVE
+82,Customer_82,52,Female,user82@email.com,+1-555-378-5443,2020-03-22,2021-03-23,169.58,6,Los Angeles,Inactive
+83,Customer_83,31,Female,user83@email.com,+1-555-726-7099,2020-03-23,2021-03-24,183.2,3,New York,Active
+84,Customer_84,34,Male,user84@email.com,+1-555-971-9555,2020-03-24,2021-03-25,217.67,5,Houston,nan
+85,Customer_85,53,Female,user85@email.com,+1-555-420-1285,2020-03-25,2021-03-26,485.5,2,NYC,Active
+86,Customer_86,67,Female,user86@email.com,+1-555-248-5037,2020-03-26,2021-03-27,203.27,6,Chi,Active
+87,Customer_87,57,Female,user87@email.com,+1-555-505-8121,2020-03-27,2021-03-28,659.69,6,NYC,Active
+88,Customer_88,21,female,user88@email.com,+1-555-555-5895,2020-03-28,2021-03-29,259.2,7,Chi,inactive
+89,Customer_89,19,Male,user89@email.com,+1-555-260-2012,2020-03-29,2021-03-30,35.4,6,New York,inactive
+90,Customer_90,79,Female,,invalid,2020-03-30,2021-03-31,765.68,6,New York,Inactive
+91,Customer_91,23,Female,user91@email.com,+1-555-883-3785,2020-03-31,2021-04-01,168.27,4,NYC,Inactive
+92,Customer_92,71,Male,user92@email.com,+1-555-608-4725,2020-04-01,2021-04-02,283.49,4,Los Angeles,Inactive
+93,Customer_93,59,Female,user93@email.com,+1-555-903-5576,2020-04-02,2021-04-03,578.3,7,Los Angeles,inactive
+94,Customer_94,21,M,user94@email.com,+1-555-762-7257,2020-04-03,2021-04-04,202.08,5,Los Angeles,Active
+95,Customer_95,71,Female,user95@email.com,+1-555-848-3408,2020-04-04,2021-04-05,29.12,5,Los Angeles,nan
+96,Customer_96,46,Male,user96@email.com,+1-555-440-3817,2020-04-05,2021-04-06,234.14,8,Houston,Active
+97,Customer_97,35,Female,user97@email.com,+1-555-860-3496,2020-04-06,2021-04-07,1445.22,4,Chicago,nan
+98,Customer_98,43,Male,user98@email.com,+1-555-942-6299,2020-04-07,2021-04-08,513.24,2,Houston,Active
+99,Customer_99,61,female,user99@email.com,+1-555-801-8574,2020-04-08,2021-04-09,556.58,3,NYC,ACTIVE
+100,Customer_100,51,Male,,+1-555-765-4267,2020-04-09,2021-04-10,500.22,4,Chicago,Active
+101,Customer_101,27,Female,user101@email.com,+1-555-565-5406,2020-04-10,2021-04-11,110.94,6,Los Angeles,Active
+102,Customer_102,79,nan,user102@email.com,+1-555-361-2442,2020-04-11,2021-04-12,270.93,9,New York,cancelled
+103,Customer_103,53,Female,user103@email.com,+1-555-505-5437,2020-04-12,2021-04-13,695.03,3,Los Angeles,cancelled
+104,Customer_104,31,nan,user104@email.com,+1-555-415-9435,2020-04-13,2021-04-14,53.44,5,NYC,Inactive
+105,Customer_105,48,Male,user105@email.com,invalid,2020-04-14,2021-04-15,162.76,3,LA,ACTIVE
+106,Customer_106,65,F,user106@email.com,+1-555-589-5107,2020-04-15,2021-04-16,161.7,2,NYC,active
+107,Customer_107,32,Female,user107@email.com,+1-555-338-1560,2020-04-16,2021-04-17,282.83,4,Los Angeles,cancelled
+108,Customer_108,25,F,user108@email.com,+1-555-141-9785,2020-04-17,2021-04-18,1965.32,9,Phoenix,Inactive
+109,Customer_109,31,Male,user109@email.com,+1-555-528-2826,2020-04-18,2021-04-19,34.94,4,Phoenix,active
+110,Customer_110,40,Male,,+1-555-257-8629,2020-04-19,2021-04-20,365.63,5,Houston,Inactive
+111,Customer_111,77,Male,user111@email.com,+1-555-233-4138,2020-04-20,2021-04-21,98.84,8,Houston,Inactive
+112,Customer_112,74,M,user112@email.com,+1-555-947-8693,2020-04-21,2021-04-22,1764.68,8,Houston,cancelled
+113,Customer_113,79,male,user113@email.com,+1-555-172-8842,2020-04-22,2021-04-23,60.13,5,Phoenix,Active
+114,Customer_114,57,F,user114@email.com,+1-555-677-8002,2020-04-23,2021-04-24,258.42,3,NYC,Active
+115,Customer_115,38,Male,user115@email.com,+1-555-229-3978,2020-04-24,2021-04-25,669.49,9,New York,active
+116,Customer_116,33,female,user116@email.com,+1-555-565-8373,2020-04-25,2021-04-26,609.64,2,NYC,inactive
+117,Customer_117,62,Female,user117@email.com,+1-555-887-7097,2020-04-26,2021-04-27,274.72,8,New York,Active
+118,Customer_118,35,Female,user118@email.com,+1-555-867-6656,2020-04-27,2021-04-28,212.72,7,New York,Inactive
+119,Customer_119,64,Male,user119@email.com,+1-555-892-5259,2020-04-28,2021-04-29,253.43,6,nan,nan
+120,Customer_120,70,F,,invalid,2020-04-29,2021-04-30,153.45,9,nan,Active
+121,Customer_121,41,Male,user121@email.com,+1-555-194-6901,2020-04-30,2021-05-01,114.92,3,New York,inactive
+122,Customer_122,43,Female,user122@email.com,+1-555-932-5917,2020-05-01,2021-05-02,329.89,6,Chicago,ACTIVE
+123,Customer_123,42,male,user123@email.com,+1-555-337-3530,2020-05-02,2021-05-03,156.35,7,New York,Inactive
+124,Customer_124,77,Male,user124@email.com,+1-555-124-6772,2020-05-03,2021-05-04,169.46,7,Houston,nan
+125,Customer_125,77,Female,user125@email.com,+1-555-216-3529,2020-05-04,2021-05-05,534.66,5,LA,ACTIVE
+126,Customer_126,77,Male,user126@email.com,+1-555-491-3964,2020-05-05,2021-05-06,1729.48,5,nan,Inactive
+127,Customer_127,62,Female,user127@email.com,+1-555-636-8340,2020-05-06,2021-05-07,462.71,1,Phoenix,active
+128,Customer_128,58,Female,user128@email.com,+1-555-111-8967,2020-05-07,2021-05-08,40.05,7,Chicago,inactive
+129,Customer_129,46,Female,user129@email.com,+1-555-227-9734,2020-05-08,2021-05-09,39.3,4,Phoenix,active
+130,Customer_130,32,M,,+1-555-945-6777,2020-05-09,2021-05-10,1512.3,7,Los Angeles,cancelled
+131,Customer_131,62,Female,user131@email.com,+1-555-927-3494,2020-05-10,2021-05-11,176.41,5,Chi,Inactive
+132,Customer_132,18,Female,user132@email.com,+1-555-489-3719,2020-05-11,2021-05-12,48.29,5,Chi,Active
+133,Customer_133,42,F,user133@email.com,+1-555-960-5349,2020-05-12,2021-05-13,456.95,3,Phoenix,Active
+134,Customer_134,24,Female,user134@email.com,+1-555-229-6179,2020-05-13,2021-05-14,488.62,5,Los Angeles,Active
+135,Customer_135,26,Female,user135@email.com,invalid,2020-05-14,2021-05-15,522.78,5,Los Angeles,Active
+136,Customer_136,41,Female,user136@email.com,+1-555-762-7610,2020-05-15,2021-05-16,155.58,4,New York,cancelled
+137,Customer_137,18,Female,user137@email.com,+1-555-386-8154,2020-05-16,2021-05-17,7.61,3,LA,inactive
+138,Customer_138,61,Female,user138@email.com,+1-555-616-7488,2020-05-17,2021-05-18,1676.42,3,Houston,inactive
+139,Customer_139,25,female,user139@email.com,+1-555-741-7525,2020-05-18,2021-05-19,144.44,5,Los Angeles,inactive
+140,Customer_140,41,M,,+1-555-878-1689,2020-05-19,2021-05-20,563.55,10,Houston,cancelled
+141,Customer_141,28,Male,user141@email.com,+1-555-352-6175,2020-05-20,2021-05-21,613.16,2,LA,Inactive
+142,Customer_142,68,Female,user142@email.com,+1-555-562-9648,2020-05-21,2021-05-22,470.81,5,New York,cancelled
+143,Customer_143,34,Female,user143@email.com,+1-555-182-6448,2020-05-22,2021-05-23,187.64,3,Chi,Inactive
+144,Customer_144,25,nan,user144@email.com,+1-555-255-7406,2020-05-23,2021-05-24,158.11,4,Chi,nan
+145,Customer_145,52,Male,user145@email.com,+1-555-179-9591,2020-05-24,2021-05-25,455.24,6,Chi,inactive
+146,Customer_146,52,Male,user146@email.com,+1-555-863-9800,2020-05-25,2021-05-26,1005.31,3,Chicago,Active
+147,Customer_147,50,Female,user147@email.com,+1-555-359-2638,2020-05-26,2021-05-27,1466.23,4,Los Angeles,active
+148,Customer_148,76,Female,user148@email.com,+1-555-651-7928,2020-05-27,2021-05-28,55.97,4,Chicago,active
+149,Customer_149,22,female,user149@email.com,+1-555-200-2382,2020-05-28,2021-05-29,84.11,5,Los Angeles,Active
+150,Customer_150,59,Male,,invalid,2020-05-29,2021-05-30,1447.82,8,New York,active
+151,Customer_151,56,male,user151@email.com,+1-555-479-4292,2020-05-30,2021-05-31,666.92,5,Phoenix,Inactive
+152,Customer_152,75,Male,user152@email.com,+1-555-919-1419,2020-05-31,2021-06-01,1072.76,6,Houston,Active
+153,Customer_153,58,male,user153@email.com,+1-555-223-5517,2020-06-01,2021-06-02,113.22,3,Chi,nan
+154,Customer_154,45,Male,user154@email.com,+1-555-330-8857,2020-06-02,2021-06-03,442.86,4,New York,inactive
+155,Customer_155,24,Male,user155@email.com,+1-555-162-8870,2020-06-03,2021-06-04,603.89,5,Phoenix,cancelled
+156,Customer_156,26,M,user156@email.com,+1-555-673-1767,2020-06-04,2021-06-05,569.89,6,LA,inactive
+157,Customer_157,25,nan,user157@email.com,+1-555-582-2549,2020-06-05,2021-06-06,262.25,7,LA,Inactive
+158,Customer_158,29,female,user158@email.com,+1-555-554-7140,2020-06-06,2021-06-07,7.76,5,Chi,active
+159,Customer_159,51,Female,user159@email.com,+1-555-697-4716,2020-06-07,2021-06-08,437.25,2,NYC,inactive
+160,Customer_160,50,nan,,+1-555-609-5481,2020-06-08,2021-06-09,145.91,6,Chi,nan
+161,Customer_161,65,Male,user161@email.com,+1-555-673-8898,2020-06-09,2021-06-10,299.15,4,Los Angeles,Active
+162,Customer_162,72,nan,user162@email.com,+1-555-504-3293,2020-06-10,2021-06-11,1580.08,2,Houston,cancelled
+163,Customer_163,40,Female,user163@email.com,+1-555-841-8758,2020-06-11,2021-06-12,254.61,4,New York,nan
+164,Customer_164,79,F,user164@email.com,+1-555-760-7793,2020-06-12,2021-06-13,915.67,2,New York,inactive
+165,Customer_165,41,male,user165@email.com,invalid,2020-06-13,2021-06-14,104.46,3,Los Angeles,nan
+166,Customer_166,54,F,user166@email.com,+1-555-570-8993,2020-06-14,2021-06-15,558.07,4,New York,Inactive
+167,Customer_167,52,Female,user167@email.com,+1-555-987-6542,2020-06-15,2021-06-16,1886.28,7,Los Angeles,nan
+168,Customer_168,61,Female,user168@email.com,+1-555-164-7356,2020-06-16,2021-06-17,53.73,5,New York,ACTIVE
+169,Customer_169,57,male,user169@email.com,+1-555-341-8380,2020-06-17,2021-06-18,4.18,5,New York,Active
+170,Customer_170,39,Male,,+1-555-792-3385,2020-06-18,2021-06-19,284.21,7,Chi,nan
+171,Customer_171,44,nan,user171@email.com,+1-555-272-1671,2020-06-19,2021-06-20,48.6,9,New York,Inactive
+172,Customer_172,52,F,user172@email.com,+1-555-263-9656,2020-06-20,2021-06-21,689.93,7,NYC,Inactive
+173,Customer_173,18,Male,user173@email.com,+1-555-596-5795,2020-06-21,2021-06-22,1229.9,6,New York,active
+174,Customer_174,52,F,user174@email.com,+1-555-494-5798,2020-06-22,2021-06-23,284.6,6,Chi,Active
+175,Customer_175,54,Female,user175@email.com,+1-555-407-6887,2020-06-23,2021-06-24,149.68,9,Chi,Inactive
+176,Customer_176,64,F,user176@email.com,+1-555-282-8961,2020-06-24,2021-06-25,284.94,2,NYC,cancelled
+177,Customer_177,31,F,user177@email.com,+1-555-609-6827,2020-06-25,2021-06-26,642.68,3,NYC,Active
+178,Customer_178,20,Male,user178@email.com,+1-555-645-5719,2020-06-26,2021-06-27,4.55,9,New York,Active
+179,Customer_179,18,Female,user179@email.com,+1-555-863-1593,2020-06-27,2021-06-28,445.13,3,nan,Active
+180,Customer_180,22,nan,,invalid,2020-06-28,2021-06-29,475.04,8,Chi,Inactive
+181,Customer_181,43,Female,user181@email.com,+1-555-843-8394,2020-06-29,2021-06-30,507.63,5,Chi,ACTIVE
+182,Customer_182,72,Female,user182@email.com,+1-555-844-4493,2020-06-30,2021-07-01,138.55,4,NYC,ACTIVE
+183,Customer_183,31,Female,user183@email.com,+1-555-653-7164,2020-07-01,2021-07-02,625.97,9,Los Angeles,nan
+184,Customer_184,56,Female,user184@email.com,+1-555-653-3672,2020-07-02,2021-07-03,47.92,2,Chi,inactive
+185,Customer_185,44,Female,user185@email.com,+1-555-204-1016,2020-07-03,2021-07-04,111.12,5,Los Angeles,Active
+186,Customer_186,26,Female,user186@email.com,+1-555-219-1392,2020-07-04,2021-07-05,1049.7,10,Phoenix,nan
+187,Customer_187,32,Male,user187@email.com,+1-555-524-7272,2020-07-05,2021-07-06,671.09,5,New York,ACTIVE
+188,Customer_188,32,M,user188@email.com,+1-555-229-1571,2020-07-06,2021-07-07,6.92,4,Chi,active
+189,Customer_189,43,Male,user189@email.com,+1-555-659-7172,2020-07-07,2021-07-08,142.76,7,New York,inactive
+190,Customer_190,59,Male,,+1-555-196-8177,2020-07-08,2021-07-09,120.66,3,Los Angeles,nan
+191,Customer_191,77,Male,user191@email.com,+1-555-341-4897,2020-07-09,2021-07-10,157.91,6,Phoenix,ACTIVE
+192,Customer_192,30,Male,user192@email.com,+1-555-331-9980,2020-07-10,2021-07-11,142.22,3,LA,Inactive
+193,Customer_193,68,Female,user193@email.com,+1-555-383-9906,2020-07-11,2021-07-12,32.28,3,Phoenix,ACTIVE
+194,Customer_194,49,M,user194@email.com,+1-555-858-1775,2020-07-12,2021-07-13,307.11,4,Los Angeles,Active
+195,Customer_195,56,F,user195@email.com,invalid,2020-07-13,2021-07-14,659.75,1,New York,Inactive
+196,Customer_196,66,Male,user196@email.com,+1-555-825-3247,2020-07-14,2021-07-15,466.63,2,LA,Inactive
+197,Customer_197,69,female,user197@email.com,+1-555-178-9080,2020-07-15,2021-07-16,558.7,4,nan,Active
+198,Customer_198,78,F,user198@email.com,+1-555-954-8340,2020-07-16,2021-07-17,42.32,5,LA,Active
+199,Customer_199,49,Female,user199@email.com,+1-555-566-8083,2020-07-17,2021-07-18,1513.0,8,Houston,Active
+200,Customer_200,21,nan,,+1-555-548-7230,2020-07-18,2021-07-19,911.6,7,Chi,inactive
+201,Customer_201,47,nan,user201@email.com,+1-555-200-5940,2020-07-19,2021-07-20,817.61,7,Chicago,cancelled
+202,Customer_202,54,Male,user202@email.com,+1-555-299-4456,2020-07-20,2021-07-21,865.76,2,Houston,nan
+203,Customer_203,40,Female,user203@email.com,+1-555-720-9599,2020-07-21,2021-07-22,1349.38,6,Houston,Inactive
+204,Customer_204,56,nan,user204@email.com,+1-555-582-3711,2020-07-22,2021-07-23,392.91,8,Chicago,active
+205,Customer_205,62,F,user205@email.com,+1-555-116-2668,2020-07-23,2021-07-24,111.75,6,LA,nan
+206,Customer_206,32,Male,user206@email.com,+1-555-247-7420,2020-07-24,2021-07-25,479.58,4,Houston,Active
+207,Customer_207,60,F,user207@email.com,+1-555-331-1365,2020-07-25,2021-07-26,679.11,4,Los Angeles,ACTIVE
+208,Customer_208,46,male,user208@email.com,+1-555-327-5531,2020-07-26,2021-07-27,669.55,4,Los Angeles,ACTIVE
+209,Customer_209,53,F,user209@email.com,+1-555-498-6330,2020-07-27,2021-07-28,368.5,1,New York,Active
+210,Customer_210,30,F,,invalid,2020-07-28,2021-07-29,35.46,6,Phoenix,cancelled
+211,Customer_211,49,male,user211@email.com,+1-555-490-9754,2020-07-29,2021-07-30,231.9,8,Los Angeles,cancelled
+212,Customer_212,24,Male,user212@email.com,+1-555-590-9964,2020-07-30,2021-07-31,1267.68,7,New York,Active
+213,Customer_213,76,Male,user213@email.com,+1-555-449-6439,2020-07-31,2021-08-01,439.07,7,NYC,Active
+214,Customer_214,68,M,user214@email.com,+1-555-237-7511,2020-08-01,2021-08-02,386.45,6,NYC,Active
+215,Customer_215,39,nan,user215@email.com,+1-555-319-8504,2020-08-02,2021-08-03,156.57,6,LA,Inactive
+216,Customer_216,45,Female,user216@email.com,+1-555-322-4839,2020-08-03,2021-08-04,229.79,4,Houston,active
+217,Customer_217,19,Female,user217@email.com,+1-555-459-3376,2020-08-04,2021-08-05,1128.55,3,Chi,active
+218,Customer_218,59,M,user218@email.com,+1-555-562-2827,2020-08-05,2021-08-06,549.0,6,Chi,Active
+219,Customer_219,62,Female,user219@email.com,+1-555-481-7979,2020-08-06,2021-08-07,774.14,3,LA,nan
+220,Customer_220,79,F,,+1-555-689-9569,2020-08-07,2021-08-08,302.88,10,Phoenix,Inactive
+221,Customer_221,74,female,user221@email.com,+1-555-218-5285,2020-08-08,2021-08-09,497.46,5,Los Angeles,Active
+222,Customer_222,70,M,user222@email.com,+1-555-866-9561,2020-08-09,2021-08-10,142.76,6,nan,Inactive
+223,Customer_223,23,Female,user223@email.com,+1-555-877-3196,2020-08-10,2021-08-11,611.17,6,Los Angeles,active
+224,Customer_224,45,Female,user224@email.com,+1-555-775-9843,2020-08-11,2021-08-12,278.96,4,Los Angeles,Inactive
+225,Customer_225,45,Female,user225@email.com,invalid,2020-08-12,2021-08-13,292.19,6,Chicago,Active
+226,Customer_226,61,Female,user226@email.com,+1-555-958-6607,2020-08-13,2021-08-14,523.94,5,New York,Active
+227,Customer_227,61,Female,user227@email.com,+1-555-869-1780,2020-08-14,2021-08-15,1376.63,3,nan,cancelled
+228,Customer_228,37,Female,user228@email.com,+1-555-792-7303,2020-08-15,2021-08-16,33.07,2,Phoenix,nan
+229,Customer_229,47,Male,user229@email.com,+1-555-450-4983,2020-08-16,2021-08-17,870.75,3,Phoenix,Inactive
+230,Customer_230,79,Male,,+1-555-387-9714,2020-08-17,2021-08-18,172.93,2,NYC,Inactive
+231,Customer_231,28,Female,user231@email.com,+1-555-621-8569,2020-08-18,2021-08-19,293.42,8,Houston,inactive
+232,Customer_232,75,Female,user232@email.com,+1-555-282-6784,2020-08-19,2021-08-20,11.08,7,New York,ACTIVE
+233,Customer_233,72,Female,user233@email.com,+1-555-587-6946,2020-08-20,2021-08-21,179.09,4,Phoenix,Inactive
+234,Customer_234,45,F,user234@email.com,+1-555-945-7267,2020-08-21,2021-08-22,349.21,3,NYC,nan
+235,Customer_235,42,M,user235@email.com,+1-555-725-3461,2020-08-22,2021-08-23,28.91,3,Chicago,active
+236,Customer_236,56,Male,user236@email.com,+1-555-824-1685,2020-08-23,2021-08-24,337.75,6,LA,Inactive
+237,Customer_237,79,female,user237@email.com,+1-555-212-8031,2020-08-24,2021-08-25,1309.41,5,Los Angeles,inactive
+238,Customer_238,50,Female,user238@email.com,+1-555-221-6341,2020-08-25,2021-08-26,55.69,1,Los Angeles,nan
+239,Customer_239,18,F,user239@email.com,+1-555-730-1038,2020-08-26,2021-08-27,722.9,8,New York,ACTIVE
+240,Customer_240,74,Female,,invalid,2020-08-27,2021-08-28,263.54,9,Chicago,Active
+241,Customer_241,44,nan,user241@email.com,+1-555-596-5875,2020-08-28,2021-08-29,532.36,4,LA,Inactive
+242,Customer_242,79,F,user242@email.com,+1-555-332-8697,2020-08-29,2021-08-30,150.71,7,LA,Inactive
+243,Customer_243,74,F,user243@email.com,+1-555-248-8165,2020-08-30,2021-08-31,86.87,3,Chicago,Inactive
+244,Customer_244,69,F,user244@email.com,+1-555-760-1301,2020-08-31,2021-09-01,87.45,7,Phoenix,ACTIVE
+245,Customer_245,30,Male,user245@email.com,+1-555-459-7381,2020-09-01,2021-09-02,36.55,5,NYC,cancelled
+246,Customer_246,58,Male,user246@email.com,+1-555-746-9789,2020-09-02,2021-09-03,102.68,6,Los Angeles,ACTIVE
+247,Customer_247,20,F,user247@email.com,+1-555-761-5330,2020-09-03,2021-09-04,545.65,8,New York,nan
+248,Customer_248,56,Female,user248@email.com,+1-555-444-8003,2020-09-04,2021-09-05,1067.23,2,nan,Active
+249,Customer_249,23,F,user249@email.com,+1-555-896-4537,2020-09-05,2021-09-06,841.34,4,Phoenix,cancelled
+250,Customer_250,25,Male,,+1-555-869-5558,2020-09-06,2021-09-07,577.8,9,nan,ACTIVE
+251,Customer_251,44,Female,user251@email.com,+1-555-535-9474,2020-09-07,2021-09-08,58.51,4,Los Angeles,Inactive
+252,Customer_252,26,Female,user252@email.com,+1-555-661-5082,2020-09-08,2021-09-09,170.67,4,NYC,ACTIVE
+253,Customer_253,79,Female,user253@email.com,+1-555-506-5183,2020-09-09,2021-09-10,185.39,3,Los Angeles,Active
+254,Customer_254,54,M,user254@email.com,+1-555-143-9652,2020-09-10,2021-09-11,143.81,4,Los Angeles,ACTIVE
+255,Customer_255,50,Female,user255@email.com,invalid,2020-09-11,2021-09-12,361.81,4,Houston,active
+256,Customer_256,68,Female,user256@email.com,+1-555-377-4754,2020-09-12,2021-09-13,383.45,6,Los Angeles,Active
+257,Customer_257,59,Female,user257@email.com,+1-555-520-2724,2020-09-13,2021-09-14,220.72,7,New York,inactive
+258,Customer_258,61,Female,user258@email.com,+1-555-452-9706,2020-09-14,2021-09-15,218.31,3,Los Angeles,inactive
+259,Customer_259,41,F,user259@email.com,+1-555-802-2653,2020-09-15,2021-09-16,881.75,6,New York,Active
+260,Customer_260,32,Male,,+1-555-118-1022,2020-09-16,2021-09-17,778.64,8,NYC,Active
+261,Customer_261,76,Female,user261@email.com,+1-555-512-6926,2020-09-17,2021-09-18,183.94,7,Houston,Inactive
+262,Customer_262,71,Female,user262@email.com,+1-555-207-8295,2020-09-18,2021-09-19,1225.48,3,New York,active
+263,Customer_263,49,F,user263@email.com,+1-555-328-7279,2020-09-19,2021-09-20,1526.84,4,New York,cancelled
+264,Customer_264,49,Female,user264@email.com,+1-555-461-8353,2020-09-20,2021-09-21,197.81,6,New York,nan
+265,Customer_265,41,male,user265@email.com,+1-555-755-7272,2020-09-21,2021-09-22,218.81,8,Phoenix,active
+266,Customer_266,58,nan,user266@email.com,+1-555-975-1514,2020-09-22,2021-09-23,352.24,3,New York,ACTIVE
+267,Customer_267,69,Female,user267@email.com,+1-555-548-7019,2020-09-23,2021-09-24,1416.13,4,LA,Inactive
+268,Customer_268,66,Male,user268@email.com,+1-555-203-6343,2020-09-24,2021-09-25,1045.03,3,New York,ACTIVE
+269,Customer_269,79,Female,user269@email.com,+1-555-931-9033,2020-09-25,2021-09-26,54.11,8,Los Angeles,Active
+270,Customer_270,66,Male,,invalid,2020-09-26,2021-09-27,249.39,1,Chi,Inactive
+271,Customer_271,75,M,user271@email.com,+1-555-590-3520,2020-09-27,2021-09-28,403.01,3,NYC,inactive
+272,Customer_272,69,nan,user272@email.com,+1-555-109-2428,2020-09-28,2021-09-29,349.72,7,New York,Active
+273,Customer_273,29,Male,user273@email.com,+1-555-995-7445,2020-09-29,2021-09-30,107.75,5,LA,ACTIVE
+274,Customer_274,79,Male,user274@email.com,+1-555-330-3159,2020-09-30,2021-10-01,978.85,9,Houston,cancelled
+275,Customer_275,56,Male,user275@email.com,+1-555-112-3547,2020-10-01,2021-10-02,564.96,5,LA,Inactive
+276,Customer_276,19,F,user276@email.com,+1-555-697-3649,2020-10-02,2021-10-03,909.8,4,Phoenix,Inactive
+277,Customer_277,20,Female,user277@email.com,+1-555-413-4083,2020-10-03,2021-10-04,978.66,5,NYC,cancelled
+278,Customer_278,66,Male,user278@email.com,+1-555-308-2037,2020-10-04,2021-10-05,689.87,7,nan,ACTIVE
+279,Customer_279,54,nan,user279@email.com,+1-555-732-4489,2020-10-05,2021-10-06,289.2,3,Los Angeles,Active
+280,Customer_280,66,F,,+1-555-536-8544,2020-10-06,2021-10-07,471.51,6,Phoenix,Inactive
+281,Customer_281,73,Male,user281@email.com,+1-555-119-3634,2020-10-07,2021-10-08,87.39,7,Houston,inactive
+282,Customer_282,34,M,user282@email.com,+1-555-854-8902,2020-10-08,2021-10-09,559.89,4,New York,active
+283,Customer_283,76,F,user283@email.com,+1-555-169-8378,2020-10-09,2021-10-10,98.77,4,New York,Active
+284,Customer_284,66,Female,user284@email.com,+1-555-200-1697,2020-10-10,2021-10-11,592.0,4,New York,Inactive
+285,Customer_285,19,Male,user285@email.com,invalid,2020-10-11,2021-10-12,130.42,3,Phoenix,cancelled
+286,Customer_286,19,Male,user286@email.com,+1-555-231-6251,2020-10-12,2021-10-13,62.53,4,Phoenix,inactive
+287,Customer_287,45,Male,user287@email.com,+1-555-119-2929,2020-10-13,2021-10-14,90.33,2,Phoenix,nan
+288,Customer_288,71,male,user288@email.com,+1-555-635-2013,2020-10-14,2021-10-15,1.0,7,New York,ACTIVE
+289,Customer_289,40,nan,user289@email.com,+1-555-326-8321,2020-10-15,2021-10-16,634.24,6,Houston,nan
+290,Customer_290,54,Male,,+1-555-904-8909,2020-10-16,2021-10-17,659.13,7,Chi,Active
+291,Customer_291,49,Male,user291@email.com,+1-555-568-3023,2020-10-17,2021-10-18,361.73,5,Chicago,ACTIVE
+292,Customer_292,50,Male,user292@email.com,+1-555-970-6891,2020-10-18,2021-10-19,87.99,4,Phoenix,Active
+293,Customer_293,18,Male,user293@email.com,+1-555-287-2080,2020-10-19,2021-10-20,43.63,5,LA,inactive
+294,Customer_294,36,male,user294@email.com,+1-555-119-3563,2020-10-20,2021-10-21,9.66,4,LA,Inactive
+295,Customer_295,79,Female,user295@email.com,+1-555-320-4586,2020-10-21,2021-10-22,90.61,7,Houston,Inactive
+296,Customer_296,19,Female,user296@email.com,+1-555-827-5431,2020-10-22,2021-10-23,1107.54,5,Chi,cancelled
+297,Customer_297,70,Male,user297@email.com,+1-555-797-7643,2020-10-23,2021-10-24,138.23,6,Chicago,cancelled
+298,Customer_298,61,M,user298@email.com,+1-555-987-1161,2020-10-24,2021-10-25,218.69,5,Chi,Active
+299,Customer_299,43,Female,user299@email.com,+1-555-769-1593,2020-10-25,2021-10-26,55.66,2,Los Angeles,inactive
+300,Customer_300,49,F,,invalid,2020-10-26,2021-10-27,125.75,4,Los Angeles,Inactive
+301,Customer_301,23,Male,user301@email.com,+1-555-258-4390,2020-10-27,2021-10-28,366.18,4,New York,Inactive
+302,Customer_302,49,F,user302@email.com,+1-555-977-7354,2020-10-28,2021-10-29,467.93,6,LA,cancelled
+303,Customer_303,72,M,user303@email.com,+1-555-505-1663,2020-10-29,2021-10-30,140.75,11,Chicago,Inactive
+304,Customer_304,21,Male,user304@email.com,+1-555-208-1541,2020-10-30,2021-10-31,29.73,6,Los Angeles,nan
+305,Customer_305,72,Female,user305@email.com,+1-555-413-6093,2020-10-31,2021-11-01,248.0,8,Los Angeles,Active
+306,Customer_306,28,female,user306@email.com,+1-555-216-1867,2020-11-01,2021-11-02,133.42,5,Chi,inactive
+307,Customer_307,73,nan,user307@email.com,+1-555-803-9623,2020-11-02,2021-11-03,123.94,3,LA,inactive
+308,Customer_308,76,Female,user308@email.com,+1-555-784-6469,2020-11-03,2021-11-04,1607.73,5,Phoenix,Active
+309,Customer_309,34,Female,user309@email.com,+1-555-282-7256,2020-11-04,2021-11-05,478.95,1,Phoenix,Inactive
+310,Customer_310,55,nan,,+1-555-282-2169,2020-11-05,2021-11-06,406.96,8,Houston,cancelled
+311,Customer_311,41,Female,user311@email.com,+1-555-930-2651,2020-11-06,2021-11-07,268.73,6,Chicago,ACTIVE
+312,Customer_312,22,Male,user312@email.com,+1-555-212-3810,2020-11-07,2021-11-08,280.13,4,Chi,Inactive
+313,Customer_313,69,nan,user313@email.com,+1-555-575-2019,2020-11-08,2021-11-09,389.25,7,New York,active
+314,Customer_314,51,Male,user314@email.com,+1-555-217-2283,2020-11-09,2021-11-10,596.07,1,Chicago,Active
+315,Customer_315,23,Female,user315@email.com,invalid,2020-11-10,2021-11-11,605.58,7,Los Angeles,Active
+316,Customer_316,39,Male,user316@email.com,+1-555-759-3010,2020-11-11,2021-11-12,94.19,3,Houston,Inactive
+317,Customer_317,28,Male,user317@email.com,+1-555-498-2733,2020-11-12,2021-11-13,346.69,9,Houston,Active
+318,Customer_318,65,Female,user318@email.com,+1-555-658-3125,2020-11-13,2021-11-14,265.48,4,Houston,cancelled
+319,Customer_319,33,F,user319@email.com,+1-555-223-9266,2020-11-14,2021-11-15,1022.14,2,New York,ACTIVE
+320,Customer_320,50,Male,,+1-555-970-4471,2020-11-15,2021-11-16,499.05,4,Houston,nan
+321,Customer_321,26,Male,user321@email.com,+1-555-936-6624,2020-11-16,2021-11-17,380.18,6,Los Angeles,inactive
+322,Customer_322,77,Male,user322@email.com,+1-555-599-9329,2020-11-17,2021-11-18,61.31,2,New York,nan
+323,Customer_323,76,Female,user323@email.com,+1-555-149-6068,2020-11-18,2021-11-19,465.24,1,New York,active
+324,Customer_324,23,nan,user324@email.com,+1-555-718-7397,2020-11-19,2021-11-20,62.33,7,LA,inactive
+325,Customer_325,33,Female,user325@email.com,+1-555-729-3757,2020-11-20,2021-11-21,205.65,7,Chicago,nan
+326,Customer_326,46,Female,user326@email.com,+1-555-948-9186,2020-11-21,2021-11-22,77.07,6,Phoenix,inactive
+327,Customer_327,20,female,user327@email.com,+1-555-976-3610,2020-11-22,2021-11-23,588.95,8,NYC,Active
+328,Customer_328,37,Female,user328@email.com,+1-555-856-2449,2020-11-23,2021-11-24,115.49,7,NYC,ACTIVE
+329,Customer_329,77,Male,user329@email.com,+1-555-646-6017,2020-11-24,2021-11-25,248.67,5,Houston,nan
+330,Customer_330,76,Male,,invalid,2020-11-25,2021-11-26,1130.12,6,Chicago,ACTIVE
+331,Customer_331,53,Female,user331@email.com,+1-555-680-8999,2020-11-26,2021-11-27,114.28,6,Chicago,active
+332,Customer_332,36,Female,user332@email.com,+1-555-148-9895,2020-11-27,2021-11-28,354.44,7,Phoenix,inactive
+333,Customer_333,43,Female,user333@email.com,+1-555-360-4331,2020-11-28,2021-11-29,271.74,6,Houston,nan
+334,Customer_334,20,F,user334@email.com,+1-555-737-8462,2020-11-29,2021-11-30,9.15,3,LA,Active
+335,Customer_335,36,Female,user335@email.com,+1-555-740-3839,2020-11-30,2021-12-01,786.93,3,Chi,inactive
+336,Customer_336,37,Female,user336@email.com,+1-555-412-1685,2020-12-01,2021-12-02,35.77,1,New York,Active
+337,Customer_337,49,M,user337@email.com,+1-555-927-8531,2020-12-02,2021-12-03,321.47,5,New York,inactive
+338,Customer_338,24,Female,user338@email.com,+1-555-287-8736,2020-12-03,2021-12-04,411.26,3,Phoenix,inactive
+339,Customer_339,69,male,user339@email.com,+1-555-642-2619,2020-12-04,2021-12-05,495.0,9,Los Angeles,Active
+340,Customer_340,58,Female,,+1-555-763-7868,2020-12-05,2021-12-06,583.39,8,New York,Active
+341,Customer_341,50,Male,user341@email.com,+1-555-507-5713,2020-12-06,2021-12-07,146.03,4,Chi,inactive
+342,Customer_342,57,F,user342@email.com,+1-555-513-5998,2020-12-07,2021-12-08,5.01,2,Los Angeles,Active
+343,Customer_343,56,Female,user343@email.com,+1-555-262-2974,2020-12-08,2021-12-09,642.67,3,Chi,Active
+344,Customer_344,35,Female,user344@email.com,+1-555-319-9461,2020-12-09,2021-12-10,383.57,2,NYC,cancelled
+345,Customer_345,57,Female,user345@email.com,invalid,2020-12-10,2021-12-11,904.3,4,LA,Inactive
+346,Customer_346,18,Female,user346@email.com,+1-555-731-1905,2020-12-11,2021-12-12,861.27,4,Los Angeles,Inactive
+347,Customer_347,28,F,user347@email.com,+1-555-947-3014,2020-12-12,2021-12-13,926.79,5,Los Angeles,nan
+348,Customer_348,45,Male,user348@email.com,+1-555-717-8896,2020-12-13,2021-12-14,331.89,8,Houston,Active
+349,Customer_349,74,Female,user349@email.com,+1-555-304-1581,2020-12-14,2021-12-15,202.95,6,New York,Inactive
+350,Customer_350,42,Male,,+1-555-655-6347,2020-12-15,2021-12-16,784.05,3,Los Angeles,inactive
+351,Customer_351,67,F,user351@email.com,+1-555-795-3643,2020-12-16,2021-12-17,300.1,5,Los Angeles,ACTIVE
+352,Customer_352,40,Male,user352@email.com,+1-555-949-3297,2020-12-17,2021-12-18,101.33,6,New York,nan
+353,Customer_353,48,female,user353@email.com,+1-555-974-6560,2020-12-18,2021-12-19,965.42,3,Los Angeles,nan
+354,Customer_354,47,Female,user354@email.com,+1-555-632-1689,2020-12-19,2021-12-20,1070.91,8,LA,ACTIVE
+355,Customer_355,59,male,user355@email.com,+1-555-618-1671,2020-12-20,2021-12-21,313.97,8,New York,Active
+356,Customer_356,52,nan,user356@email.com,+1-555-859-2171,2020-12-21,2021-12-22,39.36,5,New York,Active
+357,Customer_357,24,male,user357@email.com,+1-555-571-7342,2020-12-22,2021-12-23,245.37,4,Phoenix,Inactive
+358,Customer_358,77,female,user358@email.com,+1-555-525-3539,2020-12-23,2021-12-24,813.64,2,nan,Active
+359,Customer_359,33,Female,user359@email.com,+1-555-987-7285,2020-12-24,2021-12-25,1160.24,6,Los Angeles,ACTIVE
+360,Customer_360,43,Female,,invalid,2020-12-25,2021-12-26,113.75,5,New York,inactive
+361,Customer_361,65,Male,user361@email.com,+1-555-412-5260,2020-12-26,2021-12-27,34.66,6,Phoenix,Active
+362,Customer_362,74,Male,user362@email.com,+1-555-413-7164,2020-12-27,2021-12-28,1049.21,7,Chi,cancelled
+363,Customer_363,69,Female,user363@email.com,+1-555-181-4670,2020-12-28,2021-12-29,246.66,3,LA,Active
+364,Customer_364,77,Female,user364@email.com,+1-555-829-9100,2020-12-29,2021-12-30,390.18,9,Phoenix,Inactive
+365,Customer_365,66,Female,user365@email.com,+1-555-404-2938,2020-12-30,2021-12-31,1722.04,2,Los Angeles,inactive
+366,Customer_366,19,Female,user366@email.com,+1-555-470-6976,2020-12-31,2022-01-01,34.44,0,Houston,Inactive
+367,Customer_367,18,female,user367@email.com,+1-555-952-7588,2021-01-01,2022-01-02,522.51,6,New York,Inactive
+368,Customer_368,65,Female,user368@email.com,+1-555-524-7304,2021-01-02,2022-01-03,38.5,4,NYC,Active
+369,Customer_369,79,F,user369@email.com,+1-555-277-8875,2021-01-03,2022-01-04,235.38,6,NYC,Inactive
+370,Customer_370,29,male,,+1-555-994-7633,2021-01-04,2022-01-05,814.35,4,nan,ACTIVE
+371,Customer_371,22,nan,user371@email.com,+1-555-426-1597,2021-01-05,2022-01-06,284.11,5,Los Angeles,nan
+372,Customer_372,54,M,user372@email.com,+1-555-388-1572,2021-01-06,2022-01-07,2935.93,2,New York,Inactive
+373,Customer_373,49,male,user373@email.com,+1-555-453-7171,2021-01-07,2022-01-08,409.42,5,Houston,Inactive
+374,Customer_374,76,nan,user374@email.com,+1-555-142-7566,2021-01-08,2022-01-09,193.69,4,NYC,ACTIVE
+375,Customer_375,72,nan,user375@email.com,invalid,2021-01-09,2022-01-10,124.3,3,LA,nan
+376,Customer_376,26,Male,user376@email.com,+1-555-697-5624,2021-01-10,2022-01-11,215.79,5,New York,Active
+377,Customer_377,58,Female,user377@email.com,+1-555-709-2517,2021-01-11,2022-01-12,233.03,3,Los Angeles,Inactive
+378,Customer_378,52,Female,user378@email.com,+1-555-297-4648,2021-01-12,2022-01-13,35.59,3,Houston,ACTIVE
+379,Customer_379,36,Male,user379@email.com,+1-555-941-2537,2021-01-13,2022-01-14,230.68,4,Los Angeles,inactive
+380,Customer_380,65,M,,+1-555-121-4137,2021-01-14,2022-01-15,312.03,8,Chi,Active
+381,Customer_381,33,F,user381@email.com,+1-555-941-1097,2021-01-15,2022-01-16,641.4,5,Houston,inactive
+382,Customer_382,20,male,user382@email.com,+1-555-243-4750,2021-01-16,2022-01-17,534.62,4,LA,Active
+383,Customer_383,37,Male,user383@email.com,+1-555-185-9535,2021-01-17,2022-01-18,616.81,4,Phoenix,active
+384,Customer_384,41,female,user384@email.com,+1-555-393-5666,2021-01-18,2022-01-19,4.2,4,LA,active
+385,Customer_385,71,M,user385@email.com,+1-555-749-1610,2021-01-19,2022-01-20,122.74,4,Los Angeles,cancelled
+386,Customer_386,73,F,user386@email.com,+1-555-803-2854,2021-01-20,2022-01-21,541.89,7,LA,Inactive
+387,Customer_387,50,nan,user387@email.com,+1-555-660-6055,2021-01-21,2022-01-22,330.81,8,Los Angeles,Active
+388,Customer_388,41,M,user388@email.com,+1-555-131-3324,2021-01-22,2022-01-23,2.66,7,Houston,Active
+389,Customer_389,69,Female,user389@email.com,+1-555-631-6774,2021-01-23,2022-01-24,816.08,3,Los Angeles,cancelled
+390,Customer_390,28,male,,invalid,2021-01-24,2022-01-25,740.98,6,Houston,Active
+391,Customer_391,66,Female,user391@email.com,+1-555-475-2749,2021-01-25,2022-01-26,397.5,6,Los Angeles,Inactive
+392,Customer_392,25,Male,user392@email.com,+1-555-727-1781,2021-01-26,2022-01-27,34.39,4,Los Angeles,Active
+393,Customer_393,53,male,user393@email.com,+1-555-480-7823,2021-01-27,2022-01-28,727.32,6,nan,ACTIVE
+394,Customer_394,55,Female,user394@email.com,+1-555-157-4867,2021-01-28,2022-01-29,438.19,9,New York,Inactive
+395,Customer_395,57,F,user395@email.com,+1-555-125-5976,2021-01-29,2022-01-30,761.54,6,LA,Inactive
+396,Customer_396,37,Female,user396@email.com,+1-555-546-3113,2021-01-30,2022-01-31,696.65,4,nan,Inactive
+397,Customer_397,79,female,user397@email.com,+1-555-859-4970,2021-01-31,2022-02-01,812.28,6,New York,cancelled
+398,Customer_398,52,Male,user398@email.com,+1-555-143-8264,2021-02-01,2022-02-02,364.91,7,NYC,active
+399,Customer_399,65,nan,user399@email.com,+1-555-653-3274,2021-02-02,2022-02-03,75.6,4,Los Angeles,ACTIVE
+400,Customer_400,79,F,,+1-555-873-7744,2021-02-03,2022-02-04,556.09,3,New York,cancelled
+401,Customer_401,42,Male,user401@email.com,+1-555-478-6546,2021-02-04,2022-02-05,484.42,4,Chicago,nan
+402,Customer_402,52,Female,user402@email.com,+1-555-808-3551,2021-02-05,2022-02-06,677.89,5,Chi,Inactive
+403,Customer_403,42,nan,user403@email.com,+1-555-367-1007,2021-02-06,2022-02-07,93.09,3,New York,nan
+404,Customer_404,46,Female,user404@email.com,+1-555-607-1475,2021-02-07,2022-02-08,108.44,5,Phoenix,Active
+405,Customer_405,35,Male,user405@email.com,invalid,2021-02-08,2022-02-09,1105.5,3,Houston,Inactive
+406,Customer_406,63,Female,user406@email.com,+1-555-396-9676,2021-02-09,2022-02-10,693.1,5,Chi,cancelled
+407,Customer_407,35,Female,user407@email.com,+1-555-696-8239,2021-02-10,2022-02-11,1194.23,5,New York,Active
+408,Customer_408,19,F,user408@email.com,+1-555-666-6000,2021-02-11,2022-02-12,710.89,5,NYC,Active
+409,Customer_409,71,M,user409@email.com,+1-555-658-9078,2021-02-12,2022-02-13,454.6,6,NYC,Inactive
+410,Customer_410,52,Female,,+1-555-337-6223,2021-02-13,2022-02-14,530.85,6,NYC,inactive
+411,Customer_411,33,Male,user411@email.com,+1-555-309-7971,2021-02-14,2022-02-15,1099.69,6,Chi,Inactive
+412,Customer_412,78,M,user412@email.com,+1-555-567-4525,2021-02-15,2022-02-16,432.33,5,LA,ACTIVE
+413,Customer_413,58,Female,user413@email.com,+1-555-367-3822,2021-02-16,2022-02-17,500.37,7,New York,cancelled
+414,Customer_414,53,Male,user414@email.com,+1-555-947-7530,2021-02-17,2022-02-18,85.08,3,Houston,inactive
+415,Customer_415,50,nan,user415@email.com,+1-555-976-1258,2021-02-18,2022-02-19,321.15,5,Chicago,Active
+416,Customer_416,21,M,user416@email.com,+1-555-382-2898,2021-02-19,2022-02-20,630.09,7,Los Angeles,nan
+417,Customer_417,50,M,user417@email.com,+1-555-139-7629,2021-02-20,2022-02-21,158.0,2,Houston,Active
+418,Customer_418,31,male,user418@email.com,+1-555-319-4200,2021-02-21,2022-02-22,112.98,8,Chicago,Active
+419,Customer_419,38,Female,user419@email.com,+1-555-619-1612,2021-02-22,2022-02-23,188.31,4,Chicago,Active
+420,Customer_420,65,male,,invalid,2021-02-23,2022-02-24,138.21,2,nan,active
+421,Customer_421,37,Female,user421@email.com,+1-555-991-1687,2021-02-24,2022-02-25,120.98,5,New York,Active
+422,Customer_422,73,Male,user422@email.com,+1-555-718-9804,2021-02-25,2022-02-26,276.56,5,Chi,Active
+423,Customer_423,25,Female,user423@email.com,+1-555-359-8133,2021-02-26,2022-02-27,1192.11,4,Houston,Inactive
+424,Customer_424,24,Female,user424@email.com,+1-555-465-6906,2021-02-27,2022-02-28,353.68,6,Phoenix,Active
+425,Customer_425,20,F,user425@email.com,+1-555-643-8183,2021-02-28,2022-03-01,104.08,8,LA,inactive
+426,Customer_426,34,Male,user426@email.com,+1-555-228-9766,2021-03-01,2022-03-02,40.05,4,Chicago,cancelled
+427,Customer_427,50,Male,user427@email.com,+1-555-208-6108,2021-03-02,2022-03-03,595.62,3,Chicago,ACTIVE
+428,Customer_428,65,Male,user428@email.com,+1-555-632-1669,2021-03-03,2022-03-04,241.28,6,Chicago,Active
+429,Customer_429,29,Male,user429@email.com,+1-555-368-8329,2021-03-04,2022-03-05,862.51,4,Chicago,Active
+430,Customer_430,76,F,,+1-555-359-1923,2021-03-05,2022-03-06,538.69,2,Chi,nan
+431,Customer_431,68,Male,user431@email.com,+1-555-201-2529,2021-03-06,2022-03-07,795.41,3,LA,Active
+432,Customer_432,39,M,user432@email.com,+1-555-834-9438,2021-03-07,2022-03-08,158.69,1,New York,cancelled
+433,Customer_433,72,Female,user433@email.com,+1-555-739-9004,2021-03-08,2022-03-09,589.41,9,New York,Active
+434,Customer_434,39,Female,user434@email.com,+1-555-636-7274,2021-03-09,2022-03-10,153.3,5,Chicago,nan
+435,Customer_435,63,male,user435@email.com,invalid,2021-03-10,2022-03-11,1399.0,3,New York,Inactive
+436,Customer_436,47,Female,user436@email.com,+1-555-452-4864,2021-03-11,2022-03-12,505.82,4,Phoenix,Inactive
+437,Customer_437,55,F,user437@email.com,+1-555-765-7788,2021-03-12,2022-03-13,196.16,3,New York,ACTIVE
+438,Customer_438,55,Female,user438@email.com,+1-555-326-1264,2021-03-13,2022-03-14,157.02,4,Houston,active
+439,Customer_439,62,Female,user439@email.com,+1-555-471-1645,2021-03-14,2022-03-15,105.93,6,New York,Inactive
+440,Customer_440,68,nan,,+1-555-310-8544,2021-03-15,2022-03-16,593.13,4,Los Angeles,active
+441,Customer_441,71,Male,user441@email.com,+1-555-494-6569,2021-03-16,2022-03-17,123.41,2,NYC,ACTIVE
+442,Customer_442,25,Male,user442@email.com,+1-555-463-3504,2021-03-17,2022-03-18,452.31,6,Houston,Active
+443,Customer_443,44,F,user443@email.com,+1-555-824-1587,2021-03-18,2022-03-19,153.69,3,nan,Active
+444,Customer_444,44,Male,user444@email.com,+1-555-575-5079,2021-03-19,2022-03-20,542.31,6,Chi,Inactive
+445,Customer_445,51,male,user445@email.com,+1-555-376-7299,2021-03-20,2022-03-21,843.54,2,Chicago,Active
+446,Customer_446,38,Female,user446@email.com,+1-555-859-9381,2021-03-21,2022-03-22,752.6,8,New York,inactive
+447,Customer_447,47,nan,user447@email.com,+1-555-516-2715,2021-03-22,2022-03-23,715.33,3,LA,Active
+448,Customer_448,50,F,user448@email.com,+1-555-645-7450,2021-03-23,2022-03-24,103.96,6,Chi,Inactive
+449,Customer_449,45,M,user449@email.com,+1-555-437-6433,2021-03-24,2022-03-25,46.27,4,LA,Active
+450,Customer_450,64,nan,,invalid,2021-03-25,2022-03-26,600.24,5,New York,active
+451,Customer_451,50,Female,user451@email.com,+1-555-174-8096,2021-03-26,2022-03-27,229.71,6,nan,Active
+452,Customer_452,22,nan,user452@email.com,+1-555-378-7416,2021-03-27,2022-03-28,283.12,1,Los Angeles,Active
+453,Customer_453,77,Male,user453@email.com,+1-555-936-7763,2021-03-28,2022-03-29,15.82,5,NYC,Active
+454,Customer_454,78,Female,user454@email.com,+1-555-750-8950,2021-03-29,2022-03-30,150.27,7,Chi,nan
+455,Customer_455,65,Male,user455@email.com,+1-555-958-9915,2021-03-30,2022-03-31,17.13,6,Los Angeles,Active
+456,Customer_456,36,Female,user456@email.com,+1-555-992-7049,2021-03-31,2022-04-01,1056.75,6,Chi,ACTIVE
+457,Customer_457,21,Male,user457@email.com,+1-555-165-5578,2021-04-01,2022-04-02,139.46,7,Los Angeles,Active
+458,Customer_458,52,male,user458@email.com,+1-555-347-1155,2021-04-02,2022-04-03,407.47,4,nan,Active
+459,Customer_459,66,male,user459@email.com,+1-555-146-2958,2021-04-03,2022-04-04,19.88,3,Los Angeles,active
+460,Customer_460,34,nan,,+1-555-553-7344,2021-04-04,2022-04-05,549.58,8,nan,Inactive
+461,Customer_461,61,Male,user461@email.com,+1-555-759-7144,2021-04-05,2022-04-06,195.06,4,New York,nan
+462,Customer_462,45,M,user462@email.com,+1-555-858-9831,2021-04-06,2022-04-07,1141.0,5,NYC,nan
+463,Customer_463,47,Female,user463@email.com,+1-555-290-7659,2021-04-07,2022-04-08,1095.16,5,Houston,ACTIVE
+464,Customer_464,46,Female,user464@email.com,+1-555-541-7040,2021-04-08,2022-04-09,196.74,3,Houston,inactive
+465,Customer_465,63,Female,user465@email.com,invalid,2021-04-09,2022-04-10,1156.12,9,Los Angeles,Inactive
+466,Customer_466,70,Female,user466@email.com,+1-555-914-6925,2021-04-10,2022-04-11,2780.84,8,NYC,Inactive
+467,Customer_467,23,F,user467@email.com,+1-555-242-8358,2021-04-11,2022-04-12,872.67,6,New York,nan
+468,Customer_468,52,Female,user468@email.com,+1-555-632-7370,2021-04-12,2022-04-13,931.75,3,Phoenix,inactive
+469,Customer_469,77,Female,user469@email.com,+1-555-412-1948,2021-04-13,2022-04-14,143.18,5,Los Angeles,active
+470,Customer_470,58,Male,,+1-555-401-9179,2021-04-14,2022-04-15,429.84,5,nan,Active
+471,Customer_471,54,Male,user471@email.com,+1-555-753-7115,2021-04-15,2022-04-16,34.81,5,New York,Active
+472,Customer_472,41,Male,user472@email.com,+1-555-559-8568,2021-04-16,2022-04-17,49.86,3,New York,nan
+473,Customer_473,46,nan,user473@email.com,+1-555-650-1392,2021-04-17,2022-04-18,3402.88,7,Los Angeles,Inactive
+474,Customer_474,66,Male,user474@email.com,+1-555-966-2787,2021-04-18,2022-04-19,197.74,3,Chicago,Inactive
+475,Customer_475,63,Male,user475@email.com,+1-555-944-8374,2021-04-19,2022-04-20,689.53,0,Los Angeles,Active
+476,Customer_476,70,Female,user476@email.com,+1-555-309-2138,2021-04-20,2022-04-21,821.67,6,Houston,cancelled
+477,Customer_477,48,male,user477@email.com,+1-555-836-5741,2021-04-21,2022-04-22,976.05,6,Chi,Active
+478,Customer_478,52,nan,user478@email.com,+1-555-350-7362,2021-04-22,2022-04-23,3022.07,4,NYC,cancelled
+479,Customer_479,77,F,user479@email.com,+1-555-506-4674,2021-04-23,2022-04-24,138.2,5,Phoenix,Active
+480,Customer_480,50,M,,invalid,2021-04-24,2022-04-25,20.59,9,New York,cancelled
+481,Customer_481,69,Female,user481@email.com,+1-555-453-7701,2021-04-25,2022-04-26,264.83,5,NYC,ACTIVE
+482,Customer_482,78,Male,user482@email.com,+1-555-649-1141,2021-04-26,2022-04-27,69.68,4,New York,Active
+483,Customer_483,38,nan,user483@email.com,+1-555-711-5596,2021-04-27,2022-04-28,11.34,3,LA,active
+484,Customer_484,49,F,user484@email.com,+1-555-939-6661,2021-04-28,2022-04-29,223.48,6,Los Angeles,Inactive
+485,Customer_485,40,M,user485@email.com,+1-555-945-6626,2021-04-29,2022-04-30,765.63,2,Chicago,Active
+486,Customer_486,50,F,user486@email.com,+1-555-695-9472,2021-04-30,2022-05-01,417.56,6,Chicago,cancelled
+487,Customer_487,20,F,user487@email.com,+1-555-523-7999,2021-05-01,2022-05-02,187.55,6,Chi,Inactive
+488,Customer_488,35,M,user488@email.com,+1-555-369-5249,2021-05-02,2022-05-03,531.15,6,New York,Inactive
+489,Customer_489,42,nan,user489@email.com,+1-555-713-2750,2021-05-03,2022-05-04,131.99,5,Phoenix,Active
+490,Customer_490,59,nan,,+1-555-761-2967,2021-05-04,2022-05-05,7.24,3,New York,Inactive
+491,Customer_491,48,M,user491@email.com,+1-555-182-8789,2021-05-05,2022-05-06,722.71,4,NYC,cancelled
+492,Customer_492,71,M,user492@email.com,+1-555-998-6394,2021-05-06,2022-05-07,488.74,4,Chi,Inactive
+493,Customer_493,75,Male,user493@email.com,+1-555-812-6075,2021-05-07,2022-05-08,718.38,5,Chicago,nan
+494,Customer_494,20,M,user494@email.com,+1-555-272-8230,2021-05-08,2022-05-09,19.86,4,Houston,nan
+495,Customer_495,57,Male,user495@email.com,invalid,2021-05-09,2022-05-10,907.37,4,Chi,Active
+496,Customer_496,63,Female,user496@email.com,+1-555-172-2531,2021-05-10,2022-05-11,483.17,5,Houston,Active
+497,Customer_497,41,nan,user497@email.com,+1-555-886-3990,2021-05-11,2022-05-12,414.36,5,Houston,cancelled
+498,Customer_498,67,Female,user498@email.com,+1-555-497-1933,2021-05-12,2022-05-13,489.9,5,Phoenix,Inactive
+499,Customer_499,49,Female,user499@email.com,+1-555-536-3723,2021-05-13,2022-05-14,999.15,7,NYC,Active
+500,Customer_500,64,Female,,+1-555-564-1285,2021-05-14,2022-05-15,442.08,3,New York,Active
+501,Customer_501,39,Male,user501@email.com,+1-555-364-7816,2021-05-15,2022-05-16,434.88,2,LA,active
+502,Customer_502,40,F,user502@email.com,+1-555-475-2762,2021-05-16,2022-05-17,2337.75,4,Chicago,ACTIVE
+503,Customer_503,19,Male,user503@email.com,+1-555-433-1040,2021-05-17,2022-05-18,706.79,4,New York,Active
+504,Customer_504,44,Male,user504@email.com,+1-555-807-9259,2021-05-18,2022-05-19,291.96,6,LA,Active
+505,Customer_505,59,Female,user505@email.com,+1-555-875-8804,2021-05-19,2022-05-20,614.47,3,Chicago,nan
+506,Customer_506,19,F,user506@email.com,+1-555-721-6717,2021-05-20,2022-05-21,246.52,5,New York,ACTIVE
+507,Customer_507,43,F,user507@email.com,+1-555-731-4198,2021-05-21,2022-05-22,129.95,5,Phoenix,active
+508,Customer_508,34,Male,user508@email.com,+1-555-354-5790,2021-05-22,2022-05-23,454.23,5,Chi,ACTIVE
+509,Customer_509,57,Female,user509@email.com,+1-555-115-3524,2021-05-23,2022-05-24,1316.81,5,Chi,Inactive
+510,Customer_510,50,Female,,invalid,2021-05-24,2022-05-25,1323.52,3,nan,ACTIVE
+511,Customer_511,26,M,user511@email.com,+1-555-161-3479,2021-05-25,2022-05-26,209.2,10,Chi,Inactive
+512,Customer_512,60,M,user512@email.com,+1-555-769-6154,2021-05-26,2022-05-27,375.05,5,New York,Active
+513,Customer_513,71,Female,user513@email.com,+1-555-878-2492,2021-05-27,2022-05-28,118.9,4,Chicago,ACTIVE
+514,Customer_514,65,Female,user514@email.com,+1-555-866-1660,2021-05-28,2022-05-29,2716.62,4,LA,Inactive
+515,Customer_515,56,Female,user515@email.com,+1-555-424-8851,2021-05-29,2022-05-30,1984.77,7,Chicago,nan
+516,Customer_516,46,female,user516@email.com,+1-555-300-4516,2021-05-30,2022-05-31,524.21,3,Phoenix,Inactive
+517,Customer_517,59,Female,user517@email.com,+1-555-423-5577,2021-05-31,2022-06-01,815.88,6,Phoenix,nan
+518,Customer_518,72,Female,user518@email.com,+1-555-827-8468,2021-06-01,2022-06-02,627.81,2,Chicago,nan
+519,Customer_519,43,Female,user519@email.com,+1-555-442-2447,2021-06-02,2022-06-03,449.67,4,Chi,Active
+520,Customer_520,52,Female,,+1-555-431-7581,2021-06-03,2022-06-04,27.41,4,Houston,ACTIVE
+521,Customer_521,67,male,user521@email.com,+1-555-687-7317,2021-06-04,2022-06-05,303.27,4,Houston,Inactive
+522,Customer_522,42,Female,user522@email.com,+1-555-658-1526,2021-06-05,2022-06-06,561.64,8,nan,nan
+523,Customer_523,41,M,user523@email.com,+1-555-972-7748,2021-06-06,2022-06-07,565.88,5,Houston,Inactive
+524,Customer_524,30,F,user524@email.com,+1-555-505-8986,2021-06-07,2022-06-08,233.5,8,New York,ACTIVE
+525,Customer_525,77,Female,user525@email.com,invalid,2021-06-08,2022-06-09,1421.01,5,Houston,Inactive
+526,Customer_526,75,Female,user526@email.com,+1-555-649-4740,2021-06-09,2022-06-10,91.58,7,LA,Active
+527,Customer_527,24,female,user527@email.com,+1-555-278-2846,2021-06-10,2022-06-11,346.93,8,LA,Active
+528,Customer_528,74,Female,user528@email.com,+1-555-554-1771,2021-06-11,2022-06-12,587.02,3,LA,Inactive
+529,Customer_529,53,Female,user529@email.com,+1-555-505-9770,2021-06-12,2022-06-13,597.24,4,NYC,ACTIVE
+530,Customer_530,62,nan,,+1-555-953-1193,2021-06-13,2022-06-14,522.97,6,Los Angeles,inactive
+531,Customer_531,37,Male,user531@email.com,+1-555-261-3394,2021-06-14,2022-06-15,160.99,4,Chi,inactive
+532,Customer_532,18,Male,user532@email.com,+1-555-460-5005,2021-06-15,2022-06-16,84.92,4,Chi,Active
+533,Customer_533,25,Female,user533@email.com,+1-555-361-3261,2021-06-16,2022-06-17,505.22,6,New York,Inactive
+534,Customer_534,63,nan,user534@email.com,+1-555-764-7716,2021-06-17,2022-06-18,457.27,2,New York,Active
+535,Customer_535,33,Male,user535@email.com,+1-555-879-9921,2021-06-18,2022-06-19,98.83,4,nan,cancelled
+536,Customer_536,31,Male,user536@email.com,+1-555-382-8815,2021-06-19,2022-06-20,610.63,2,Chi,nan
+537,Customer_537,29,Male,user537@email.com,+1-555-566-4451,2021-06-20,2022-06-21,303.64,8,Chi,Inactive
+538,Customer_538,68,Male,user538@email.com,+1-555-461-8616,2021-06-21,2022-06-22,550.95,7,Chi,Active
+539,Customer_539,40,Male,user539@email.com,+1-555-540-3800,2021-06-22,2022-06-23,908.13,2,Houston,Active
+540,Customer_540,32,Female,,invalid,2021-06-23,2022-06-24,93.0,5,Phoenix,inactive
+541,Customer_541,45,Female,user541@email.com,+1-555-966-9333,2021-06-24,2022-06-25,9.67,6,Houston,inactive
+542,Customer_542,51,Male,user542@email.com,+1-555-390-2455,2021-06-25,2022-06-26,755.03,7,New York,ACTIVE
+543,Customer_543,19,Female,user543@email.com,+1-555-848-6808,2021-06-26,2022-06-27,470.42,7,NYC,Active
+544,Customer_544,49,Male,user544@email.com,+1-555-752-5796,2021-06-27,2022-06-28,601.39,7,Houston,ACTIVE
+545,Customer_545,40,Female,user545@email.com,+1-555-148-2325,2021-06-28,2022-06-29,910.56,6,Phoenix,inactive
+546,Customer_546,39,Female,user546@email.com,+1-555-980-2159,2021-06-29,2022-06-30,811.8,5,Houston,Inactive
+547,Customer_547,68,F,user547@email.com,+1-555-654-5987,2021-06-30,2022-07-01,1621.07,5,Houston,active
+548,Customer_548,42,Male,user548@email.com,+1-555-964-5697,2021-07-01,2022-07-02,383.87,8,New York,Active
+549,Customer_549,75,Female,user549@email.com,+1-555-906-1340,2021-07-02,2022-07-03,335.2,7,Los Angeles,Inactive
+550,Customer_550,79,Male,,+1-555-856-2968,2021-07-03,2022-07-04,256.99,4,New York,cancelled
+551,Customer_551,78,female,user551@email.com,+1-555-803-6482,2021-07-04,2022-07-05,83.44,5,New York,Inactive
+552,Customer_552,39,F,user552@email.com,+1-555-921-7376,2021-07-05,2022-07-06,425.03,8,nan,cancelled
+553,Customer_553,75,Female,user553@email.com,+1-555-876-6463,2021-07-06,2022-07-07,162.18,5,New York,active
+554,Customer_554,75,Male,user554@email.com,+1-555-648-5912,2021-07-07,2022-07-08,1271.1,2,Los Angeles,Active
+555,Customer_555,39,nan,user555@email.com,invalid,2021-07-08,2022-07-09,437.56,3,Phoenix,active
+556,Customer_556,66,Male,user556@email.com,+1-555-652-1855,2021-07-09,2022-07-10,449.27,7,Phoenix,active
+557,Customer_557,69,Male,user557@email.com,+1-555-888-3866,2021-07-10,2022-07-11,219.19,3,New York,Inactive
+558,Customer_558,59,Female,user558@email.com,+1-555-670-1182,2021-07-11,2022-07-12,26.69,8,LA,Active
+559,Customer_559,23,Male,user559@email.com,+1-555-140-6670,2021-07-12,2022-07-13,16.13,1,LA,Inactive
+560,Customer_560,32,nan,,+1-555-496-6823,2021-07-13,2022-07-14,275.25,5,Los Angeles,Active
+561,Customer_561,71,F,user561@email.com,+1-555-878-2517,2021-07-14,2022-07-15,44.18,3,Los Angeles,Active
+562,Customer_562,60,Male,user562@email.com,+1-555-758-6002,2021-07-15,2022-07-16,466.78,5,Chi,Inactive
+563,Customer_563,77,Female,user563@email.com,+1-555-432-4629,2021-07-16,2022-07-17,1064.2,5,LA,Inactive
+564,Customer_564,54,nan,user564@email.com,+1-555-656-9210,2021-07-17,2022-07-18,1072.43,2,NYC,nan
+565,Customer_565,50,female,user565@email.com,+1-555-431-7132,2021-07-18,2022-07-19,538.0,7,New York,Inactive
+566,Customer_566,25,M,user566@email.com,+1-555-208-7588,2021-07-19,2022-07-20,118.64,2,Chicago,ACTIVE
+567,Customer_567,70,nan,user567@email.com,+1-555-339-7048,2021-07-20,2022-07-21,993.88,4,Phoenix,active
+568,Customer_568,77,nan,user568@email.com,+1-555-400-7246,2021-07-21,2022-07-22,1086.19,5,New York,ACTIVE
+569,Customer_569,61,F,user569@email.com,+1-555-349-5615,2021-07-22,2022-07-23,109.48,4,Chicago,Active
+570,Customer_570,61,Male,,invalid,2021-07-23,2022-07-24,668.61,4,Phoenix,nan
+571,Customer_571,22,Female,user571@email.com,+1-555-252-9365,2021-07-24,2022-07-25,168.8,5,Los Angeles,active
+572,Customer_572,56,male,user572@email.com,+1-555-442-4741,2021-07-25,2022-07-26,811.36,4,LA,cancelled
+573,Customer_573,21,Male,user573@email.com,+1-555-530-1726,2021-07-26,2022-07-27,2945.88,4,LA,Inactive
+574,Customer_574,23,male,user574@email.com,+1-555-788-6806,2021-07-27,2022-07-28,15.24,5,Los Angeles,Active
+575,Customer_575,62,Male,user575@email.com,+1-555-951-7993,2021-07-28,2022-07-29,1138.29,7,LA,inactive
+576,Customer_576,49,Male,user576@email.com,+1-555-757-5033,2021-07-29,2022-07-30,487.27,6,New York,Active
+577,Customer_577,69,Female,user577@email.com,+1-555-423-1989,2021-07-30,2022-07-31,1813.1,6,LA,Inactive
+578,Customer_578,47,Male,user578@email.com,+1-555-772-9611,2021-07-31,2022-08-01,312.75,8,New York,Active
+579,Customer_579,64,nan,user579@email.com,+1-555-693-2774,2021-08-01,2022-08-02,939.93,5,New York,inactive
+580,Customer_580,52,male,,+1-555-511-1935,2021-08-02,2022-08-03,32.21,2,Phoenix,nan
+581,Customer_581,72,male,user581@email.com,+1-555-183-4808,2021-08-03,2022-08-04,204.19,4,Houston,Inactive
+582,Customer_582,57,M,user582@email.com,+1-555-431-8922,2021-08-04,2022-08-05,34.68,6,Chi,cancelled
+583,Customer_583,69,Male,user583@email.com,+1-555-754-6889,2021-08-05,2022-08-06,1851.35,3,Chicago,active
+584,Customer_584,33,Female,user584@email.com,+1-555-896-5200,2021-08-06,2022-08-07,849.06,3,Los Angeles,Inactive
+585,Customer_585,30,Female,user585@email.com,invalid,2021-08-07,2022-08-08,957.12,5,Houston,nan
+586,Customer_586,67,Female,user586@email.com,+1-555-301-3497,2021-08-08,2022-08-09,1390.03,5,Houston,cancelled
+587,Customer_587,77,Male,user587@email.com,+1-555-918-5658,2021-08-09,2022-08-10,44.47,6,Los Angeles,ACTIVE
+588,Customer_588,59,Female,user588@email.com,+1-555-217-8544,2021-08-10,2022-08-11,243.55,2,NYC,Active
+589,Customer_589,47,Female,user589@email.com,+1-555-650-1770,2021-08-11,2022-08-12,36.84,6,LA,active
+590,Customer_590,36,nan,,+1-555-183-2628,2021-08-12,2022-08-13,118.36,4,Chi,Active
+591,Customer_591,34,female,user591@email.com,+1-555-777-1386,2021-08-13,2022-08-14,130.27,3,nan,Inactive
+592,Customer_592,73,Female,user592@email.com,+1-555-449-7439,2021-08-14,2022-08-15,316.6,4,Los Angeles,Inactive
+593,Customer_593,36,M,user593@email.com,+1-555-357-5008,2021-08-15,2022-08-16,156.37,2,NYC,cancelled
+594,Customer_594,45,F,user594@email.com,+1-555-367-3466,2021-08-16,2022-08-17,53.22,6,Chicago,cancelled
+595,Customer_595,75,Male,user595@email.com,+1-555-334-2856,2021-08-17,2022-08-18,91.66,8,NYC,Inactive
+596,Customer_596,72,female,user596@email.com,+1-555-410-8980,2021-08-18,2022-08-19,79.66,5,Houston,Active
+597,Customer_597,43,female,user597@email.com,+1-555-456-5669,2021-08-19,2022-08-20,1807.38,6,nan,cancelled
+598,Customer_598,54,Female,user598@email.com,+1-555-148-5318,2021-08-20,2022-08-21,712.09,5,NYC,Active
+599,Customer_599,43,Female,user599@email.com,+1-555-378-2431,2021-08-21,2022-08-22,1717.3,5,nan,inactive
+600,Customer_600,70,Male,,invalid,2021-08-22,2022-08-23,289.68,6,LA,Active
+601,Customer_601,79,Female,user601@email.com,+1-555-604-8461,2021-08-23,2022-08-24,163.12,4,Chi,Inactive
+602,Customer_602,40,Male,user602@email.com,+1-555-895-2130,2021-08-24,2022-08-25,800.47,4,LA,nan
+603,Customer_603,26,female,user603@email.com,+1-555-757-7563,2021-08-25,2022-08-26,197.45,5,Houston,Active
+604,Customer_604,29,Male,user604@email.com,+1-555-710-4500,2021-08-26,2022-08-27,177.9,5,Los Angeles,Inactive
+605,Customer_605,70,Female,user605@email.com,+1-555-474-3120,2021-08-27,2022-08-28,132.31,4,Chicago,Inactive
+606,Customer_606,18,nan,user606@email.com,+1-555-733-4259,2021-08-28,2022-08-29,69.45,4,New York,nan
+607,Customer_607,75,F,user607@email.com,+1-555-463-2823,2021-08-29,2022-08-30,148.17,7,Houston,cancelled
+608,Customer_608,75,Male,user608@email.com,+1-555-550-3242,2021-08-30,2022-08-31,219.5,5,Houston,Active
+609,Customer_609,18,Male,user609@email.com,+1-555-255-4243,2021-08-31,2022-09-01,560.42,4,Houston,Active
+610,Customer_610,64,Male,,+1-555-946-6160,2021-09-01,2022-09-02,32.3,3,nan,inactive
+611,Customer_611,51,M,user611@email.com,+1-555-162-3070,2021-09-02,2022-09-03,118.18,9,Chi,Inactive
+612,Customer_612,49,Male,user612@email.com,+1-555-459-2141,2021-09-03,2022-09-04,827.8,6,New York,inactive
+613,Customer_613,79,Female,user613@email.com,+1-555-711-5000,2021-09-04,2022-09-05,79.45,6,Chicago,Active
+614,Customer_614,71,nan,user614@email.com,+1-555-778-4361,2021-09-05,2022-09-06,209.77,4,Chicago,Active
+615,Customer_615,65,Male,user615@email.com,invalid,2021-09-06,2022-09-07,999.98,7,Chicago,inactive
+616,Customer_616,42,female,user616@email.com,+1-555-539-8835,2021-09-07,2022-09-08,84.17,6,LA,Active
+617,Customer_617,57,nan,user617@email.com,+1-555-106-4267,2021-09-08,2022-09-09,43.18,6,Houston,cancelled
+618,Customer_618,62,Male,user618@email.com,+1-555-520-5928,2021-09-09,2022-09-10,331.35,2,Phoenix,Active
+619,Customer_619,70,female,user619@email.com,+1-555-292-3606,2021-09-10,2022-09-11,180.07,6,Chi,Active
+620,Customer_620,18,Female,,+1-555-247-6906,2021-09-11,2022-09-12,414.38,4,LA,nan
+621,Customer_621,33,nan,user621@email.com,+1-555-768-4273,2021-09-12,2022-09-13,814.32,7,New York,Inactive
+622,Customer_622,78,Female,user622@email.com,+1-555-543-1913,2021-09-13,2022-09-14,73.76,8,NYC,ACTIVE
+623,Customer_623,56,M,user623@email.com,+1-555-518-6546,2021-09-14,2022-09-15,434.58,6,Chicago,Active
+624,Customer_624,22,Female,user624@email.com,+1-555-578-2829,2021-09-15,2022-09-16,352.11,3,Los Angeles,inactive
+625,Customer_625,39,female,user625@email.com,+1-555-675-7468,2021-09-16,2022-09-17,77.79,4,New York,ACTIVE
+626,Customer_626,46,F,user626@email.com,+1-555-491-1929,2021-09-17,2022-09-18,489.08,5,Houston,Inactive
+627,Customer_627,72,Female,user627@email.com,+1-555-787-4699,2021-09-18,2022-09-19,159.86,3,Chicago,cancelled
+628,Customer_628,20,female,user628@email.com,+1-555-539-2054,2021-09-19,2022-09-20,334.55,5,Los Angeles,inactive
+629,Customer_629,29,Male,user629@email.com,+1-555-487-6744,2021-09-20,2022-09-21,42.93,8,NYC,Inactive
+630,Customer_630,43,Male,,invalid,2021-09-21,2022-09-22,307.71,8,LA,active
+631,Customer_631,33,Male,user631@email.com,+1-555-976-7980,2021-09-22,2022-09-23,182.98,5,Los Angeles,active
+632,Customer_632,68,Female,user632@email.com,+1-555-475-4415,2021-09-23,2022-09-24,864.06,5,New York,Active
+633,Customer_633,54,Male,user633@email.com,+1-555-542-7218,2021-09-24,2022-09-25,29.33,8,LA,Inactive
+634,Customer_634,39,nan,user634@email.com,+1-555-656-8939,2021-09-25,2022-09-26,271.16,5,New York,Inactive
+635,Customer_635,74,Male,user635@email.com,+1-555-765-8597,2021-09-26,2022-09-27,306.64,4,Chi,Inactive
+636,Customer_636,46,M,user636@email.com,+1-555-462-7591,2021-09-27,2022-09-28,645.5,3,Phoenix,ACTIVE
+637,Customer_637,31,Male,user637@email.com,+1-555-333-3309,2021-09-28,2022-09-29,427.0,7,Los Angeles,Inactive
+638,Customer_638,45,female,user638@email.com,+1-555-926-7268,2021-09-29,2022-09-30,550.13,4,Los Angeles,nan
+639,Customer_639,22,nan,user639@email.com,+1-555-344-5009,2021-09-30,2022-10-01,750.4,4,New York,Active
+640,Customer_640,64,Female,,+1-555-584-3169,2021-10-01,2022-10-02,990.99,5,Los Angeles,Inactive
+641,Customer_641,66,female,user641@email.com,+1-555-224-6668,2021-10-02,2022-10-03,188.35,3,New York,ACTIVE
+642,Customer_642,47,Male,user642@email.com,+1-555-269-9315,2021-10-03,2022-10-04,386.12,5,Phoenix,active
+643,Customer_643,63,male,user643@email.com,+1-555-968-7789,2021-10-04,2022-10-05,916.63,4,New York,active
+644,Customer_644,79,Male,user644@email.com,+1-555-807-1785,2021-10-05,2022-10-06,2275.87,6,Houston,Active
+645,Customer_645,69,nan,user645@email.com,invalid,2021-10-06,2022-10-07,1101.46,5,Phoenix,Inactive
+646,Customer_646,22,Male,user646@email.com,+1-555-300-3416,2021-10-07,2022-10-08,232.18,5,Los Angeles,Active
+647,Customer_647,29,Female,user647@email.com,+1-555-896-5154,2021-10-08,2022-10-09,108.56,2,New York,nan
+648,Customer_648,33,F,user648@email.com,+1-555-530-6619,2021-10-09,2022-10-10,336.08,5,New York,Inactive
+649,Customer_649,43,Male,user649@email.com,+1-555-208-4807,2021-10-10,2022-10-11,676.7,3,New York,cancelled
+650,Customer_650,43,Male,,+1-555-377-4236,2021-10-11,2022-10-12,339.2,3,NYC,inactive
+651,Customer_651,65,Male,user651@email.com,+1-555-588-3352,2021-10-12,2022-10-13,330.03,5,Los Angeles,Inactive
+652,Customer_652,38,Female,user652@email.com,+1-555-773-9556,2021-10-13,2022-10-14,910.79,4,LA,active
+653,Customer_653,56,Female,user653@email.com,+1-555-953-5916,2021-10-14,2022-10-15,224.24,3,Chicago,cancelled
+654,Customer_654,53,Male,user654@email.com,+1-555-478-1946,2021-10-15,2022-10-16,982.32,4,Houston,cancelled
+655,Customer_655,50,Female,user655@email.com,+1-555-998-2439,2021-10-16,2022-10-17,261.12,2,Houston,Active
+656,Customer_656,79,Male,user656@email.com,+1-555-208-8730,2021-10-17,2022-10-18,198.92,6,NYC,Inactive
+657,Customer_657,47,male,user657@email.com,+1-555-861-1340,2021-10-18,2022-10-19,302.56,7,Los Angeles,Inactive
+658,Customer_658,54,Male,user658@email.com,+1-555-482-9491,2021-10-19,2022-10-20,718.68,3,New York,Active
+659,Customer_659,40,Male,user659@email.com,+1-555-238-1358,2021-10-20,2022-10-21,67.34,5,Phoenix,active
+660,Customer_660,75,Male,,invalid,2021-10-21,2022-10-22,109.34,4,Los Angeles,cancelled
+661,Customer_661,27,Female,user661@email.com,+1-555-935-4456,2021-10-22,2022-10-23,1512.53,6,Chicago,Inactive
+662,Customer_662,71,male,user662@email.com,+1-555-703-7626,2021-10-23,2022-10-24,96.48,6,Phoenix,ACTIVE
+663,Customer_663,22,Female,user663@email.com,+1-555-210-7652,2021-10-24,2022-10-25,419.35,2,Houston,inactive
+664,Customer_664,53,Male,user664@email.com,+1-555-372-4170,2021-10-25,2022-10-26,432.93,2,Phoenix,Inactive
+665,Customer_665,51,F,user665@email.com,+1-555-863-9017,2021-10-26,2022-10-27,336.3,5,Houston,Active
+666,Customer_666,69,F,user666@email.com,+1-555-203-7905,2021-10-27,2022-10-28,517.46,2,NYC,ACTIVE
+667,Customer_667,48,Male,user667@email.com,+1-555-886-3567,2021-10-28,2022-10-29,130.57,7,NYC,cancelled
+668,Customer_668,27,F,user668@email.com,+1-555-383-9848,2021-10-29,2022-10-30,402.22,4,Houston,inactive
+669,Customer_669,75,nan,user669@email.com,+1-555-712-4730,2021-10-30,2022-10-31,232.75,5,NYC,Active
+670,Customer_670,36,Male,,+1-555-163-4162,2021-10-31,2022-11-01,541.86,7,Chi,Active
+671,Customer_671,75,F,user671@email.com,+1-555-216-9458,2021-11-01,2022-11-02,76.12,5,Chicago,Active
+672,Customer_672,49,F,user672@email.com,+1-555-921-2708,2021-11-02,2022-11-03,423.01,7,Chicago,active
+673,Customer_673,18,Female,user673@email.com,+1-555-658-4211,2021-11-03,2022-11-04,102.45,1,LA,ACTIVE
+674,Customer_674,73,Male,user674@email.com,+1-555-345-7538,2021-11-04,2022-11-05,163.31,3,Phoenix,Active
+675,Customer_675,22,Male,user675@email.com,invalid,2021-11-05,2022-11-06,123.4,4,New York,cancelled
+676,Customer_676,62,female,user676@email.com,+1-555-586-1475,2021-11-06,2022-11-07,100.96,9,Chi,active
+677,Customer_677,21,nan,user677@email.com,+1-555-616-2207,2021-11-07,2022-11-08,873.52,4,New York,inactive
+678,Customer_678,33,M,user678@email.com,+1-555-119-2960,2021-11-08,2022-11-09,168.23,5,NYC,nan
+679,Customer_679,41,Female,user679@email.com,+1-555-657-1882,2021-11-09,2022-11-10,1309.5,6,LA,Active
+680,Customer_680,33,M,,+1-555-246-5761,2021-11-10,2022-11-11,1752.06,6,nan,nan
+681,Customer_681,72,Female,user681@email.com,+1-555-403-6867,2021-11-11,2022-11-12,423.45,3,New York,Active
+682,Customer_682,19,Female,user682@email.com,+1-555-919-8166,2021-11-12,2022-11-13,77.16,3,Phoenix,Inactive
+683,Customer_683,66,Male,user683@email.com,+1-555-794-8929,2021-11-13,2022-11-14,234.64,5,Chicago,cancelled
+684,Customer_684,45,male,user684@email.com,+1-555-327-8269,2021-11-14,2022-11-15,799.08,7,Los Angeles,nan
+685,Customer_685,49,Female,user685@email.com,+1-555-686-9125,2021-11-15,2022-11-16,228.95,6,New York,active
+686,Customer_686,44,male,user686@email.com,+1-555-315-3454,2021-11-16,2022-11-17,45.52,6,Phoenix,active
+687,Customer_687,37,Male,user687@email.com,+1-555-498-2946,2021-11-17,2022-11-18,406.85,4,Houston,ACTIVE
+688,Customer_688,41,Male,user688@email.com,+1-555-814-3808,2021-11-18,2022-11-19,932.56,7,New York,cancelled
+689,Customer_689,29,Male,user689@email.com,+1-555-598-4825,2021-11-19,2022-11-20,794.64,4,Phoenix,Active
+690,Customer_690,67,Female,,invalid,2021-11-20,2022-11-21,96.26,8,NYC,cancelled
+691,Customer_691,52,nan,user691@email.com,+1-555-564-7068,2021-11-21,2022-11-22,558.54,5,LA,Inactive
+692,Customer_692,77,Male,user692@email.com,+1-555-830-5699,2021-11-22,2022-11-23,124.55,5,Chi,Inactive
+693,Customer_693,50,female,user693@email.com,+1-555-786-7142,2021-11-23,2022-11-24,123.08,4,Chicago,Inactive
+694,Customer_694,50,Female,user694@email.com,+1-555-850-3819,2021-11-24,2022-11-25,1036.02,5,nan,active
+695,Customer_695,78,male,user695@email.com,+1-555-464-5258,2021-11-25,2022-11-26,143.62,2,Chi,nan
+696,Customer_696,68,Male,user696@email.com,+1-555-147-2863,2021-11-26,2022-11-27,152.75,3,Los Angeles,active
+697,Customer_697,60,male,user697@email.com,+1-555-215-8084,2021-11-27,2022-11-28,0.33,7,New York,nan
+698,Customer_698,54,F,user698@email.com,+1-555-948-3384,2021-11-28,2022-11-29,1022.69,5,Chicago,Active
+699,Customer_699,29,Male,user699@email.com,+1-555-980-4935,2021-11-29,2022-11-30,786.54,6,Chicago,ACTIVE
+700,Customer_700,20,Male,,+1-555-939-8742,2021-11-30,2022-12-01,493.53,7,Phoenix,cancelled
+701,Customer_701,18,female,user701@email.com,+1-555-905-6442,2021-12-01,2022-12-02,693.68,2,Phoenix,inactive
+702,Customer_702,50,nan,user702@email.com,+1-555-542-7980,2021-12-02,2022-12-03,82.47,7,NYC,inactive
+703,Customer_703,57,Male,user703@email.com,+1-555-112-8661,2021-12-03,2022-12-04,306.54,5,Houston,active
+704,Customer_704,27,F,user704@email.com,+1-555-800-9182,2021-12-04,2022-12-05,216.33,5,New York,cancelled
+705,Customer_705,60,nan,user705@email.com,invalid,2021-12-05,2022-12-06,49.23,7,Chi,cancelled
+706,Customer_706,61,female,user706@email.com,+1-555-819-2137,2021-12-06,2022-12-07,332.89,6,Los Angeles,Active
+707,Customer_707,46,nan,user707@email.com,+1-555-579-5117,2021-12-07,2022-12-08,1267.51,5,nan,cancelled
+708,Customer_708,30,F,user708@email.com,+1-555-448-6845,2021-12-08,2022-12-09,20.44,0,New York,Inactive
+709,Customer_709,29,Female,user709@email.com,+1-555-782-4906,2021-12-09,2022-12-10,172.28,7,nan,Active
+710,Customer_710,48,Female,,+1-555-665-3953,2021-12-10,2022-12-11,116.31,5,New York,cancelled
+711,Customer_711,63,Female,user711@email.com,+1-555-909-1276,2021-12-11,2022-12-12,136.0,5,Los Angeles,Inactive
+712,Customer_712,19,F,user712@email.com,+1-555-303-7337,2021-12-12,2022-12-13,1195.35,6,New York,cancelled
+713,Customer_713,78,F,user713@email.com,+1-555-780-4735,2021-12-13,2022-12-14,315.62,8,NYC,Active
+714,Customer_714,68,Male,user714@email.com,+1-555-646-1695,2021-12-14,2022-12-15,313.96,4,Chi,Active
+715,Customer_715,67,female,user715@email.com,+1-555-385-5152,2021-12-15,2022-12-16,714.76,6,Chicago,Inactive
+716,Customer_716,52,F,user716@email.com,+1-555-833-8470,2021-12-16,2022-12-17,83.91,4,Chi,Active
+717,Customer_717,40,Female,user717@email.com,+1-555-262-8537,2021-12-17,2022-12-18,334.0,1,Phoenix,ACTIVE
+718,Customer_718,34,Female,user718@email.com,+1-555-363-3841,2021-12-18,2022-12-19,281.05,3,Phoenix,Active
+719,Customer_719,43,Female,user719@email.com,+1-555-212-9733,2021-12-19,2022-12-20,454.3,4,LA,Inactive
+720,Customer_720,25,Male,,invalid,2021-12-20,2022-12-21,3861.76,5,Los Angeles,Active
+721,Customer_721,46,Male,user721@email.com,+1-555-746-2088,2021-12-21,2022-12-22,733.64,4,Chicago,Active
+722,Customer_722,43,Male,user722@email.com,+1-555-391-1024,2021-12-22,2022-12-23,253.64,5,Chi,ACTIVE
+723,Customer_723,27,Male,user723@email.com,+1-555-648-7144,2021-12-23,2022-12-24,878.83,2,Chi,Active
+724,Customer_724,43,Female,user724@email.com,+1-555-648-5236,2021-12-24,2022-12-25,93.59,2,nan,inactive
+725,Customer_725,79,Female,user725@email.com,+1-555-843-9068,2021-12-25,2022-12-26,15.47,5,Chi,nan
+726,Customer_726,51,Male,user726@email.com,+1-555-287-8295,2021-12-26,2022-12-27,114.36,5,New York,inactive
+727,Customer_727,68,F,user727@email.com,+1-555-300-9448,2021-12-27,2022-12-28,208.07,5,LA,cancelled
+728,Customer_728,58,Male,user728@email.com,+1-555-775-4175,2021-12-28,2022-12-29,357.27,6,Chicago,Active
+729,Customer_729,24,nan,user729@email.com,+1-555-634-5897,2021-12-29,2022-12-30,477.42,4,nan,Active
+730,Customer_730,21,nan,,+1-555-483-8427,2021-12-30,2022-12-31,1207.35,9,Houston,cancelled
+731,Customer_731,75,Male,user731@email.com,+1-555-513-3014,2021-12-31,2023-01-01,356.53,7,Phoenix,ACTIVE
+732,Customer_732,70,Female,user732@email.com,+1-555-457-2098,2022-01-01,2023-01-02,347.85,2,Houston,inactive
+733,Customer_733,67,Male,user733@email.com,+1-555-454-4655,2022-01-02,2023-01-03,25.77,3,Los Angeles,inactive
+734,Customer_734,62,Female,user734@email.com,+1-555-870-1187,2022-01-03,2023-01-04,17.77,4,New York,Inactive
+735,Customer_735,28,M,user735@email.com,invalid,2022-01-04,2023-01-05,400.54,6,Chi,Active
+736,Customer_736,46,Male,user736@email.com,+1-555-784-6409,2022-01-05,2023-01-06,288.29,7,LA,ACTIVE
+737,Customer_737,73,Female,user737@email.com,+1-555-144-3130,2022-01-06,2023-01-07,913.74,4,New York,inactive
+738,Customer_738,53,Male,user738@email.com,+1-555-222-9549,2022-01-07,2023-01-08,87.58,5,LA,Inactive
+739,Customer_739,42,Male,user739@email.com,+1-555-627-6185,2022-01-08,2023-01-09,12.64,5,Phoenix,cancelled
+740,Customer_740,38,M,,+1-555-756-8913,2022-01-09,2023-01-10,298.05,3,Chicago,Inactive
+741,Customer_741,78,Female,user741@email.com,+1-555-479-8823,2022-01-10,2023-01-11,135.56,3,Los Angeles,Active
+742,Customer_742,74,Female,user742@email.com,+1-555-457-8355,2022-01-11,2023-01-12,25.44,7,Chi,cancelled
+743,Customer_743,53,Female,user743@email.com,+1-555-421-2497,2022-01-12,2023-01-13,644.76,3,NYC,ACTIVE
+744,Customer_744,27,nan,user744@email.com,+1-555-112-3555,2022-01-13,2023-01-14,59.16,8,Houston,active
+745,Customer_745,54,Male,user745@email.com,+1-555-389-3951,2022-01-14,2023-01-15,468.65,8,Phoenix,Active
+746,Customer_746,26,Female,user746@email.com,+1-555-314-5727,2022-01-15,2023-01-16,164.98,5,New York,Active
+747,Customer_747,41,M,user747@email.com,+1-555-993-6686,2022-01-16,2023-01-17,95.28,5,Houston,inactive
+748,Customer_748,52,Female,user748@email.com,+1-555-126-4701,2022-01-17,2023-01-18,238.82,3,New York,Inactive
+749,Customer_749,66,nan,user749@email.com,+1-555-832-8398,2022-01-18,2023-01-19,808.35,3,Los Angeles,cancelled
+750,Customer_750,52,F,,invalid,2022-01-19,2023-01-20,248.87,6,NYC,nan
+751,Customer_751,65,M,user751@email.com,+1-555-664-3368,2022-01-20,2023-01-21,694.69,5,Chi,cancelled
+752,Customer_752,53,F,user752@email.com,+1-555-332-6789,2022-01-21,2023-01-22,67.04,4,Chicago,Inactive
+753,Customer_753,35,nan,user753@email.com,+1-555-536-3828,2022-01-22,2023-01-23,740.9,6,Los Angeles,ACTIVE
+754,Customer_754,66,nan,user754@email.com,+1-555-632-8570,2022-01-23,2023-01-24,135.2,3,Phoenix,Inactive
+755,Customer_755,56,F,user755@email.com,+1-555-152-8480,2022-01-24,2023-01-25,565.66,12,Chi,Active
+756,Customer_756,49,F,user756@email.com,+1-555-380-1182,2022-01-25,2023-01-26,417.1,1,NYC,Active
+757,Customer_757,41,Male,user757@email.com,+1-555-122-7687,2022-01-26,2023-01-27,1323.56,6,Chi,Inactive
+758,Customer_758,40,Male,user758@email.com,+1-555-545-8241,2022-01-27,2023-01-28,244.96,1,Houston,nan
+759,Customer_759,79,Female,user759@email.com,+1-555-109-8651,2022-01-28,2023-01-29,34.23,6,LA,Active
+760,Customer_760,49,Male,,+1-555-555-2589,2022-01-29,2023-01-30,9.67,1,New York,Active
+761,Customer_761,54,Female,user761@email.com,+1-555-663-9851,2022-01-30,2023-01-31,876.82,4,Los Angeles,nan
+762,Customer_762,29,Male,user762@email.com,+1-555-259-7555,2022-01-31,2023-02-01,371.94,3,Chicago,Active
+763,Customer_763,66,Female,user763@email.com,+1-555-977-9244,2022-02-01,2023-02-02,746.37,3,Houston,ACTIVE
+764,Customer_764,72,F,user764@email.com,+1-555-507-7846,2022-02-02,2023-02-03,133.56,5,Chi,Inactive
+765,Customer_765,30,nan,user765@email.com,invalid,2022-02-03,2023-02-04,211.62,5,Chi,Active
+766,Customer_766,40,Male,user766@email.com,+1-555-359-2228,2022-02-04,2023-02-05,15.28,5,New York,nan
+767,Customer_767,42,Female,user767@email.com,+1-555-158-6590,2022-02-05,2023-02-06,1628.45,9,New York,Active
+768,Customer_768,52,female,user768@email.com,+1-555-875-6585,2022-02-06,2023-02-07,551.11,3,Chicago,active
+769,Customer_769,58,Male,user769@email.com,+1-555-111-7046,2022-02-07,2023-02-08,1353.06,3,Los Angeles,Active
+770,Customer_770,47,male,,+1-555-389-5945,2022-02-08,2023-02-09,154.28,6,Phoenix,Active
+771,Customer_771,34,Female,user771@email.com,+1-555-859-8016,2022-02-09,2023-02-10,472.68,6,Chi,Active
+772,Customer_772,66,Female,user772@email.com,+1-555-815-8758,2022-02-10,2023-02-11,567.38,3,nan,Active
+773,Customer_773,79,nan,user773@email.com,+1-555-540-6086,2022-02-11,2023-02-12,191.03,7,NYC,Active
+774,Customer_774,37,Male,user774@email.com,+1-555-340-8161,2022-02-12,2023-02-13,942.3,4,LA,ACTIVE
+775,Customer_775,65,M,user775@email.com,+1-555-960-2809,2022-02-13,2023-02-14,1470.26,1,Houston,Inactive
+776,Customer_776,42,male,user776@email.com,+1-555-195-7352,2022-02-14,2023-02-15,1080.78,7,Los Angeles,Inactive
+777,Customer_777,39,Male,user777@email.com,+1-555-442-7056,2022-02-15,2023-02-16,671.75,7,Houston,Inactive
+778,Customer_778,30,M,user778@email.com,+1-555-489-7468,2022-02-16,2023-02-17,162.49,2,Phoenix,nan
+779,Customer_779,76,nan,user779@email.com,+1-555-988-6951,2022-02-17,2023-02-18,165.38,5,NYC,nan
+780,Customer_780,36,Male,,invalid,2022-02-18,2023-02-19,1653.31,6,Los Angeles,ACTIVE
+781,Customer_781,66,female,user781@email.com,+1-555-256-9859,2022-02-19,2023-02-20,5.17,9,Chicago,cancelled
+782,Customer_782,53,Female,user782@email.com,+1-555-750-5728,2022-02-20,2023-02-21,629.48,3,Chicago,Inactive
+783,Customer_783,29,M,user783@email.com,+1-555-676-6738,2022-02-21,2023-02-22,612.51,4,nan,Inactive
+784,Customer_784,78,M,user784@email.com,+1-555-758-5232,2022-02-22,2023-02-23,487.34,10,Chicago,inactive
+785,Customer_785,58,Male,user785@email.com,+1-555-773-5523,2022-02-23,2023-02-24,2308.06,4,LA,inactive
+786,Customer_786,36,nan,user786@email.com,+1-555-551-3224,2022-02-24,2023-02-25,186.9,4,LA,Inactive
+787,Customer_787,29,nan,user787@email.com,+1-555-297-7091,2022-02-25,2023-02-26,207.74,4,Los Angeles,Inactive
+788,Customer_788,26,M,user788@email.com,+1-555-790-9662,2022-02-26,2023-02-27,41.11,7,Phoenix,nan
+789,Customer_789,24,F,user789@email.com,+1-555-317-2948,2022-02-27,2023-02-28,292.41,8,Chi,cancelled
+790,Customer_790,45,M,,+1-555-927-8094,2022-02-28,2023-03-01,151.26,6,Houston,Inactive
+791,Customer_791,31,Female,user791@email.com,+1-555-274-4796,2022-03-01,2023-03-02,210.33,6,Chi,ACTIVE
+792,Customer_792,48,M,user792@email.com,+1-555-334-4607,2022-03-02,2023-03-03,899.61,3,Los Angeles,Active
+793,Customer_793,69,Female,user793@email.com,+1-555-975-1522,2022-03-03,2023-03-04,1370.42,5,New York,Active
+794,Customer_794,36,Female,user794@email.com,+1-555-884-5888,2022-03-04,2023-03-05,102.73,6,Chi,Inactive
+795,Customer_795,75,F,user795@email.com,invalid,2022-03-05,2023-03-06,233.01,2,LA,Inactive
+796,Customer_796,64,Female,user796@email.com,+1-555-705-6832,2022-03-06,2023-03-07,1319.94,8,nan,Active
+797,Customer_797,33,Male,user797@email.com,+1-555-632-8122,2022-03-07,2023-03-08,31.9,5,NYC,cancelled
+798,Customer_798,70,Male,user798@email.com,+1-555-822-2316,2022-03-08,2023-03-09,48.45,4,Chi,Inactive
+799,Customer_799,22,Female,user799@email.com,+1-555-909-2124,2022-03-09,2023-03-10,88.84,4,LA,active
+800,Customer_800,52,F,,+1-555-601-6423,2022-03-10,2023-03-11,452.2,2,LA,Active
+801,Customer_801,29,Female,user801@email.com,+1-555-970-3587,2022-03-11,2023-03-12,81.54,5,Phoenix,Active
+802,Customer_802,42,M,user802@email.com,+1-555-652-2378,2022-03-12,2023-03-13,1722.2,5,Chicago,cancelled
+803,Customer_803,69,Female,user803@email.com,+1-555-402-2519,2022-03-13,2023-03-14,295.94,4,Chi,inactive
+804,Customer_804,76,M,user804@email.com,+1-555-757-8935,2022-03-14,2023-03-15,348.09,2,Chicago,nan
+805,Customer_805,38,Female,user805@email.com,+1-555-326-6355,2022-03-15,2023-03-16,141.62,4,Houston,nan
+806,Customer_806,53,Female,user806@email.com,+1-555-972-6574,2022-03-16,2023-03-17,318.35,4,Chicago,Inactive
+807,Customer_807,70,F,user807@email.com,+1-555-112-3257,2022-03-17,2023-03-18,542.23,1,Phoenix,Active
+808,Customer_808,40,female,user808@email.com,+1-555-840-9588,2022-03-18,2023-03-19,695.51,8,Houston,cancelled
+809,Customer_809,33,Female,user809@email.com,+1-555-199-5424,2022-03-19,2023-03-20,700.94,4,New York,nan
+810,Customer_810,74,Male,,invalid,2022-03-20,2023-03-21,431.25,10,Chi,inactive
+811,Customer_811,56,Male,user811@email.com,+1-555-265-4893,2022-03-21,2023-03-22,1173.58,6,Chicago,ACTIVE
+812,Customer_812,62,Male,user812@email.com,+1-555-199-2772,2022-03-22,2023-03-23,850.25,3,Phoenix,ACTIVE
+813,Customer_813,70,M,user813@email.com,+1-555-261-4976,2022-03-23,2023-03-24,707.45,6,New York,Inactive
+814,Customer_814,59,Female,user814@email.com,+1-555-827-9967,2022-03-24,2023-03-25,28.61,4,New York,active
+815,Customer_815,75,Female,user815@email.com,+1-555-362-8170,2022-03-25,2023-03-26,3.45,3,Los Angeles,cancelled
+816,Customer_816,56,Female,user816@email.com,+1-555-127-7469,2022-03-26,2023-03-27,119.41,2,NYC,inactive
+817,Customer_817,31,Male,user817@email.com,+1-555-248-1539,2022-03-27,2023-03-28,544.61,3,New York,Active
+818,Customer_818,48,Female,user818@email.com,+1-555-587-2461,2022-03-28,2023-03-29,264.83,5,Chi,Inactive
+819,Customer_819,75,Male,user819@email.com,+1-555-164-9547,2022-03-29,2023-03-30,257.42,3,Los Angeles,Active
+820,Customer_820,22,Female,,+1-555-632-1234,2022-03-30,2023-03-31,1079.62,4,Los Angeles,Active
+821,Customer_821,52,Male,user821@email.com,+1-555-326-2548,2022-03-31,2023-04-01,1129.58,3,New York,nan
+822,Customer_822,40,male,user822@email.com,+1-555-412-5213,2022-04-01,2023-04-02,1199.41,6,New York,Active
+823,Customer_823,46,Male,user823@email.com,+1-555-153-2673,2022-04-02,2023-04-03,188.35,5,LA,Active
+824,Customer_824,60,nan,user824@email.com,+1-555-664-8982,2022-04-03,2023-04-04,587.3,5,Chi,Inactive
+825,Customer_825,28,Female,user825@email.com,invalid,2022-04-04,2023-04-05,158.48,4,Phoenix,inactive
+826,Customer_826,35,male,user826@email.com,+1-555-152-4748,2022-04-05,2023-04-06,105.74,4,New York,active
+827,Customer_827,64,M,user827@email.com,+1-555-201-2815,2022-04-06,2023-04-07,102.06,6,Los Angeles,Active
+828,Customer_828,29,F,user828@email.com,+1-555-869-9016,2022-04-07,2023-04-08,209.36,4,Houston,Active
+829,Customer_829,26,F,user829@email.com,+1-555-967-5493,2022-04-08,2023-04-09,281.02,6,nan,Active
+830,Customer_830,27,Female,,+1-555-237-1674,2022-04-09,2023-04-10,888.78,4,Los Angeles,active
+831,Customer_831,75,Female,user831@email.com,+1-555-486-3158,2022-04-10,2023-04-11,63.85,5,NYC,Active
+832,Customer_832,61,Female,user832@email.com,+1-555-713-3064,2022-04-11,2023-04-12,663.87,5,Chicago,nan
+833,Customer_833,34,Female,user833@email.com,+1-555-879-4253,2022-04-12,2023-04-13,379.06,4,Los Angeles,Inactive
+834,Customer_834,78,Male,user834@email.com,+1-555-983-8703,2022-04-13,2023-04-14,169.8,5,Houston,Active
+835,Customer_835,55,Female,user835@email.com,+1-555-640-9931,2022-04-14,2023-04-15,339.44,3,New York,ACTIVE
+836,Customer_836,24,M,user836@email.com,+1-555-477-4259,2022-04-15,2023-04-16,178.3,4,LA,Inactive
+837,Customer_837,63,Female,user837@email.com,+1-555-957-4923,2022-04-16,2023-04-17,453.27,6,Los Angeles,inactive
+838,Customer_838,30,F,user838@email.com,+1-555-218-4227,2022-04-17,2023-04-18,284.44,6,NYC,Active
+839,Customer_839,57,M,user839@email.com,+1-555-883-3745,2022-04-18,2023-04-19,89.81,1,New York,active
+840,Customer_840,59,nan,,invalid,2022-04-19,2023-04-20,61.98,3,nan,ACTIVE
+841,Customer_841,26,Male,user841@email.com,+1-555-894-6818,2022-04-20,2023-04-21,395.6,4,New York,nan
+842,Customer_842,67,Female,user842@email.com,+1-555-274-3792,2022-04-21,2023-04-22,1163.51,6,Chi,Active
+843,Customer_843,44,Female,user843@email.com,+1-555-773-5063,2022-04-22,2023-04-23,210.76,4,LA,Inactive
+844,Customer_844,75,Female,user844@email.com,+1-555-835-2524,2022-04-23,2023-04-24,660.25,3,nan,Inactive
+845,Customer_845,19,male,user845@email.com,+1-555-764-9224,2022-04-24,2023-04-25,537.44,14,Houston,nan
+846,Customer_846,22,Male,user846@email.com,+1-555-154-5025,2022-04-25,2023-04-26,1340.86,5,NYC,nan
+847,Customer_847,46,F,user847@email.com,+1-555-618-3803,2022-04-26,2023-04-27,860.13,4,Chicago,Active
+848,Customer_848,54,Female,user848@email.com,+1-555-924-4709,2022-04-27,2023-04-28,418.05,5,New York,Active
+849,Customer_849,55,M,user849@email.com,+1-555-111-1719,2022-04-28,2023-04-29,535.06,5,Chicago,Inactive
+850,Customer_850,36,M,,+1-555-654-7516,2022-04-29,2023-04-30,1143.29,7,New York,Active
+851,Customer_851,25,Female,user851@email.com,+1-555-583-1972,2022-04-30,2023-05-01,255.01,7,nan,Inactive
+852,Customer_852,65,Female,user852@email.com,+1-555-746-8395,2022-05-01,2023-05-02,197.85,7,New York,Active
+853,Customer_853,62,Female,user853@email.com,+1-555-722-5402,2022-05-02,2023-05-03,5.43,2,Phoenix,inactive
+854,Customer_854,18,Male,user854@email.com,+1-555-556-3207,2022-05-03,2023-05-04,875.94,5,Phoenix,nan
+855,Customer_855,39,Female,user855@email.com,invalid,2022-05-04,2023-05-05,807.18,3,Houston,nan
+856,Customer_856,69,Male,user856@email.com,+1-555-430-7919,2022-05-05,2023-05-06,55.16,7,NYC,Inactive
+857,Customer_857,34,Female,user857@email.com,+1-555-324-9835,2022-05-06,2023-05-07,430.02,2,New York,active
+858,Customer_858,24,Female,user858@email.com,+1-555-715-9386,2022-05-07,2023-05-08,311.79,6,Phoenix,cancelled
+859,Customer_859,42,Female,user859@email.com,+1-555-588-3204,2022-05-08,2023-05-09,63.18,4,Los Angeles,Active
+860,Customer_860,62,M,,+1-555-709-6345,2022-05-09,2023-05-10,1970.42,8,Chi,inactive
+861,Customer_861,21,Male,user861@email.com,+1-555-511-4276,2022-05-10,2023-05-11,120.84,5,LA,Inactive
+862,Customer_862,53,M,user862@email.com,+1-555-178-6243,2022-05-11,2023-05-12,34.8,1,nan,Active
+863,Customer_863,23,Female,user863@email.com,+1-555-570-9707,2022-05-12,2023-05-13,451.75,2,New York,Inactive
+864,Customer_864,77,Female,user864@email.com,+1-555-701-6223,2022-05-13,2023-05-14,671.36,3,Los Angeles,Active
+865,Customer_865,48,female,user865@email.com,+1-555-492-1630,2022-05-14,2023-05-15,16.49,6,New York,inactive
+866,Customer_866,36,Male,user866@email.com,+1-555-744-7683,2022-05-15,2023-05-16,537.52,8,New York,Active
+867,Customer_867,78,Female,user867@email.com,+1-555-377-1232,2022-05-16,2023-05-17,379.96,4,Los Angeles,Inactive
+868,Customer_868,61,Female,user868@email.com,+1-555-628-6690,2022-05-17,2023-05-18,54.5,3,NYC,Active
+869,Customer_869,71,Female,user869@email.com,+1-555-189-8659,2022-05-18,2023-05-19,94.69,6,Los Angeles,cancelled
+870,Customer_870,56,Male,,invalid,2022-05-19,2023-05-20,419.64,6,Houston,Inactive
+871,Customer_871,44,Male,user871@email.com,+1-555-298-1025,2022-05-20,2023-05-21,175.74,8,Chi,active
+872,Customer_872,27,female,user872@email.com,+1-555-124-8468,2022-05-21,2023-05-22,1392.86,6,NYC,active
+873,Customer_873,43,Female,user873@email.com,+1-555-438-7410,2022-05-22,2023-05-23,853.91,6,Chicago,Inactive
+874,Customer_874,36,Female,user874@email.com,+1-555-560-4764,2022-05-23,2023-05-24,2054.24,5,Chicago,Active
+875,Customer_875,56,Female,user875@email.com,+1-555-555-6102,2022-05-24,2023-05-25,150.33,4,Houston,ACTIVE
+876,Customer_876,79,M,user876@email.com,+1-555-962-4483,2022-05-25,2023-05-26,1748.69,5,New York,Active
+877,Customer_877,20,Male,user877@email.com,+1-555-590-2072,2022-05-26,2023-05-27,282.14,5,Phoenix,Active
+878,Customer_878,62,Female,user878@email.com,+1-555-786-7707,2022-05-27,2023-05-28,213.49,6,Chicago,ACTIVE
+879,Customer_879,30,Female,user879@email.com,+1-555-201-1215,2022-05-28,2023-05-29,25.83,11,Chi,Active
+880,Customer_880,67,nan,,+1-555-537-3606,2022-05-29,2023-05-30,27.1,8,LA,Inactive
+881,Customer_881,45,Male,user881@email.com,+1-555-258-5781,2022-05-30,2023-05-31,588.85,7,Phoenix,Inactive
+882,Customer_882,79,Female,user882@email.com,+1-555-341-8763,2022-05-31,2023-06-01,306.18,7,Chicago,Inactive
+883,Customer_883,75,Female,user883@email.com,+1-555-919-3295,2022-06-01,2023-06-02,128.43,4,Los Angeles,ACTIVE
+884,Customer_884,37,M,user884@email.com,+1-555-665-2696,2022-06-02,2023-06-03,475.92,8,LA,inactive
+885,Customer_885,45,Female,user885@email.com,invalid,2022-06-03,2023-06-04,145.75,6,Houston,inactive
+886,Customer_886,25,Female,user886@email.com,+1-555-521-2946,2022-06-04,2023-06-05,430.94,2,Los Angeles,ACTIVE
+887,Customer_887,78,F,user887@email.com,+1-555-837-3783,2022-06-05,2023-06-06,222.53,4,New York,Active
+888,Customer_888,58,F,user888@email.com,+1-555-672-6241,2022-06-06,2023-06-07,867.37,0,New York,Inactive
+889,Customer_889,56,Female,user889@email.com,+1-555-376-8557,2022-06-07,2023-06-08,859.34,6,LA,Inactive
+890,Customer_890,18,female,,+1-555-393-3645,2022-06-08,2023-06-09,324.42,0,Los Angeles,Inactive
+891,Customer_891,20,Female,user891@email.com,+1-555-545-7353,2022-06-09,2023-06-10,216.02,7,Houston,nan
+892,Customer_892,30,Female,user892@email.com,+1-555-689-2932,2022-06-10,2023-06-11,225.15,9,Houston,cancelled
+893,Customer_893,45,Male,user893@email.com,+1-555-322-2757,2022-06-11,2023-06-12,819.21,7,Phoenix,Active
+894,Customer_894,79,nan,user894@email.com,+1-555-102-6085,2022-06-12,2023-06-13,198.88,2,Chi,Active
+895,Customer_895,74,Male,user895@email.com,+1-555-617-2116,2022-06-13,2023-06-14,117.27,4,Chi,Active
+896,Customer_896,77,Male,user896@email.com,+1-555-619-1492,2022-06-14,2023-06-15,44.25,8,Houston,Active
+897,Customer_897,66,Male,user897@email.com,+1-555-334-9811,2022-06-15,2023-06-16,314.33,5,New York,Active
+898,Customer_898,42,M,user898@email.com,+1-555-260-8888,2022-06-16,2023-06-17,329.02,5,Chicago,active
+899,Customer_899,73,Male,user899@email.com,+1-555-851-7474,2022-06-17,2023-06-18,919.14,6,Phoenix,cancelled
+900,Customer_900,50,Male,,invalid,2022-06-18,2023-06-19,125.03,2,Phoenix,ACTIVE
+901,Customer_901,55,Male,user901@email.com,+1-555-432-5958,2022-06-19,2023-06-20,239.82,4,NYC,Active
+902,Customer_902,70,Male,user902@email.com,+1-555-767-3743,2022-06-20,2023-06-21,826.19,7,New York,Inactive
+903,Customer_903,23,Female,user903@email.com,+1-555-931-8866,2022-06-21,2023-06-22,867.57,3,Phoenix,active
+904,Customer_904,75,M,user904@email.com,+1-555-189-8160,2022-06-22,2023-06-23,242.75,6,New York,cancelled
+905,Customer_905,61,Female,user905@email.com,+1-555-431-6258,2022-06-23,2023-06-24,307.28,2,LA,cancelled
+906,Customer_906,62,Female,user906@email.com,+1-555-456-8186,2022-06-24,2023-06-25,180.69,8,Los Angeles,nan
+907,Customer_907,49,M,user907@email.com,+1-555-410-1619,2022-06-25,2023-06-26,1348.22,10,NYC,active
+908,Customer_908,62,Male,user908@email.com,+1-555-982-9988,2022-06-26,2023-06-27,63.15,5,New York,inactive
+909,Customer_909,78,Female,user909@email.com,+1-555-670-2296,2022-06-27,2023-06-28,1357.16,4,Chicago,Active
+910,Customer_910,64,nan,,+1-555-718-9436,2022-06-28,2023-06-29,575.8,4,NYC,active
+911,Customer_911,38,Female,user911@email.com,+1-555-947-7593,2022-06-29,2023-06-30,379.19,8,Los Angeles,Active
+912,Customer_912,33,Male,user912@email.com,+1-555-346-9711,2022-06-30,2023-07-01,16.6,9,LA,Inactive
+913,Customer_913,71,Female,user913@email.com,+1-555-240-3409,2022-07-01,2023-07-02,322.75,7,Phoenix,inactive
+914,Customer_914,38,Female,user914@email.com,+1-555-107-4423,2022-07-02,2023-07-03,261.91,7,Phoenix,Active
+915,Customer_915,28,Female,user915@email.com,invalid,2022-07-03,2023-07-04,87.9,3,Chicago,Active
+916,Customer_916,77,Male,user916@email.com,+1-555-594-7976,2022-07-04,2023-07-05,534.15,8,Houston,Active
+917,Customer_917,54,Male,user917@email.com,+1-555-526-6158,2022-07-05,2023-07-06,1772.84,7,Phoenix,Active
+918,Customer_918,53,Male,user918@email.com,+1-555-692-4667,2022-07-06,2023-07-07,412.98,2,Houston,Active
+919,Customer_919,52,nan,user919@email.com,+1-555-699-6973,2022-07-07,2023-07-08,627.2,5,NYC,Active
+920,Customer_920,36,F,,+1-555-192-9277,2022-07-08,2023-07-09,35.45,7,Chicago,Active
+921,Customer_921,37,Male,user921@email.com,+1-555-143-3468,2022-07-09,2023-07-10,270.36,6,Los Angeles,Active
+922,Customer_922,74,Male,user922@email.com,+1-555-173-4619,2022-07-10,2023-07-11,61.85,1,Los Angeles,nan
+923,Customer_923,35,F,user923@email.com,+1-555-712-9155,2022-07-11,2023-07-12,474.4,3,New York,Inactive
+924,Customer_924,64,Male,user924@email.com,+1-555-611-5009,2022-07-12,2023-07-13,1394.21,4,Los Angeles,Active
+925,Customer_925,58,Male,user925@email.com,+1-555-354-9148,2022-07-13,2023-07-14,542.03,4,NYC,active
+926,Customer_926,66,nan,user926@email.com,+1-555-827-3217,2022-07-14,2023-07-15,39.96,3,LA,cancelled
+927,Customer_927,31,Male,user927@email.com,+1-555-863-5967,2022-07-15,2023-07-16,218.99,7,Los Angeles,inactive
+928,Customer_928,32,M,user928@email.com,+1-555-421-4638,2022-07-16,2023-07-17,399.99,9,nan,Active
+929,Customer_929,48,nan,user929@email.com,+1-555-555-6722,2022-07-17,2023-07-18,258.09,4,Houston,active
+930,Customer_930,18,Female,,invalid,2022-07-18,2023-07-19,896.81,3,Chi,ACTIVE
+931,Customer_931,70,Male,user931@email.com,+1-555-889-5444,2022-07-19,2023-07-20,842.81,4,NYC,ACTIVE
+932,Customer_932,71,Male,user932@email.com,+1-555-550-4947,2022-07-20,2023-07-21,473.16,4,NYC,inactive
+933,Customer_933,71,male,user933@email.com,+1-555-752-2196,2022-07-21,2023-07-22,233.77,6,New York,cancelled
+934,Customer_934,20,female,user934@email.com,+1-555-109-3787,2022-07-22,2023-07-23,147.41,3,Los Angeles,cancelled
+935,Customer_935,33,F,user935@email.com,+1-555-364-8927,2022-07-23,2023-07-24,55.95,10,New York,active
+936,Customer_936,40,Male,user936@email.com,+1-555-346-9858,2022-07-24,2023-07-25,219.17,5,NYC,Inactive
+937,Customer_937,74,F,user937@email.com,+1-555-645-3176,2022-07-25,2023-07-26,266.51,5,Los Angeles,inactive
+938,Customer_938,28,nan,user938@email.com,+1-555-771-9792,2022-07-26,2023-07-27,563.23,3,LA,cancelled
+939,Customer_939,29,M,user939@email.com,+1-555-704-5422,2022-07-27,2023-07-28,536.71,2,Los Angeles,Active
+940,Customer_940,27,nan,,+1-555-852-3451,2022-07-28,2023-07-29,36.34,7,LA,nan
+941,Customer_941,49,male,user941@email.com,+1-555-728-8778,2022-07-29,2023-07-30,251.48,5,New York,Active
+942,Customer_942,33,M,user942@email.com,+1-555-724-4674,2022-07-30,2023-07-31,100.31,4,New York,Inactive
+943,Customer_943,25,Female,user943@email.com,+1-555-957-3765,2022-07-31,2023-08-01,85.28,6,Los Angeles,cancelled
+944,Customer_944,55,Female,user944@email.com,+1-555-116-5369,2022-08-01,2023-08-02,878.11,5,Chicago,Active
+945,Customer_945,29,Male,user945@email.com,invalid,2022-08-02,2023-08-03,21.41,4,Los Angeles,Inactive
+946,Customer_946,41,M,user946@email.com,+1-555-784-9307,2022-08-03,2023-08-04,271.66,7,LA,Active
+947,Customer_947,45,Female,user947@email.com,+1-555-960-1692,2022-08-04,2023-08-05,92.08,4,New York,Inactive
+948,Customer_948,70,female,user948@email.com,+1-555-190-2105,2022-08-05,2023-08-06,1057.35,2,Chicago,Active
+949,Customer_949,25,nan,user949@email.com,+1-555-423-4008,2022-08-06,2023-08-07,407.14,3,LA,Inactive
+950,Customer_950,75,F,,+1-555-213-9345,2022-08-07,2023-08-08,131.58,8,New York,Inactive
+951,Customer_951,45,Male,user951@email.com,+1-555-976-4699,2022-08-08,2023-08-09,349.01,5,Chi,nan
+952,Customer_952,53,Male,user952@email.com,+1-555-954-4786,2022-08-09,2023-08-10,657.43,6,nan,nan
+953,Customer_953,43,Male,user953@email.com,+1-555-140-5200,2022-08-10,2023-08-11,1586.45,2,New York,Active
+954,Customer_954,25,M,user954@email.com,+1-555-989-6520,2022-08-11,2023-08-12,124.52,3,Los Angeles,ACTIVE
+955,Customer_955,75,F,user955@email.com,+1-555-377-2772,2022-08-12,2023-08-13,1086.58,3,Chicago,Active
+956,Customer_956,77,nan,user956@email.com,+1-555-832-8423,2022-08-13,2023-08-14,1361.36,7,LA,Active
+957,Customer_957,67,Female,user957@email.com,+1-555-750-3871,2022-08-14,2023-08-15,1240.98,5,Phoenix,Active
+958,Customer_958,45,nan,user958@email.com,+1-555-760-7242,2022-08-15,2023-08-16,504.5,2,Phoenix,nan
+959,Customer_959,45,female,user959@email.com,+1-555-687-2132,2022-08-16,2023-08-17,496.88,2,LA,nan
+960,Customer_960,54,Female,,invalid,2022-08-17,2023-08-18,258.1,7,New York,Active
+961,Customer_961,58,female,user961@email.com,+1-555-799-8470,2022-08-18,2023-08-19,697.97,8,LA,Active
+962,Customer_962,53,Female,user962@email.com,+1-555-426-7297,2022-08-19,2023-08-20,378.89,4,NYC,Active
+963,Customer_963,44,Male,user963@email.com,+1-555-651-8812,2022-08-20,2023-08-21,565.73,4,Phoenix,active
+964,Customer_964,71,M,user964@email.com,+1-555-504-5557,2022-08-21,2023-08-22,279.71,4,Chi,active
+965,Customer_965,34,Female,user965@email.com,+1-555-231-9275,2022-08-22,2023-08-23,657.45,3,NYC,Active
+966,Customer_966,26,M,user966@email.com,+1-555-498-4180,2022-08-23,2023-08-24,869.98,4,Los Angeles,ACTIVE
+967,Customer_967,50,M,user967@email.com,+1-555-320-7696,2022-08-24,2023-08-25,79.17,6,Chicago,Inactive
+968,Customer_968,70,Female,user968@email.com,+1-555-467-1614,2022-08-25,2023-08-26,894.67,5,Houston,nan
+969,Customer_969,37,Female,user969@email.com,+1-555-657-5570,2022-08-26,2023-08-27,388.59,5,New York,inactive
+970,Customer_970,30,Female,,+1-555-935-1270,2022-08-27,2023-08-28,931.09,3,nan,Inactive
+971,Customer_971,45,Female,user971@email.com,+1-555-520-4607,2022-08-28,2023-08-29,282.2,6,New York,ACTIVE
+972,Customer_972,65,Female,user972@email.com,+1-555-635-4075,2022-08-29,2023-08-30,238.24,4,NYC,cancelled
+973,Customer_973,46,Female,user973@email.com,+1-555-934-1289,2022-08-30,2023-08-31,1232.91,2,Houston,Active
+974,Customer_974,30,Male,user974@email.com,+1-555-532-7614,2022-08-31,2023-09-01,144.62,5,New York,Inactive
+975,Customer_975,63,Female,user975@email.com,invalid,2022-09-01,2023-09-02,929.63,7,Chi,nan
+976,Customer_976,52,Male,user976@email.com,+1-555-280-8415,2022-09-02,2023-09-03,330.84,8,Chi,Active
+977,Customer_977,78,M,user977@email.com,+1-555-727-1278,2022-09-03,2023-09-04,360.87,0,Houston,Active
+978,Customer_978,23,F,user978@email.com,+1-555-976-1580,2022-09-04,2023-09-05,184.42,5,Los Angeles,Inactive
+979,Customer_979,35,Female,user979@email.com,+1-555-962-9445,2022-09-05,2023-09-06,425.54,4,New York,cancelled
+980,Customer_980,68,Female,,+1-555-280-8997,2022-09-06,2023-09-07,196.68,6,Chicago,ACTIVE
+981,Customer_981,22,nan,user981@email.com,+1-555-780-1824,2022-09-07,2023-09-08,20.03,4,Los Angeles,nan
+982,Customer_982,64,male,user982@email.com,+1-555-608-4832,2022-09-08,2023-09-09,158.73,7,Houston,active
+983,Customer_983,42,nan,user983@email.com,+1-555-799-6445,2022-09-09,2023-09-10,3.2,2,nan,Active
+984,Customer_984,19,male,user984@email.com,+1-555-456-7534,2022-09-10,2023-09-11,1916.49,3,Phoenix,active
+985,Customer_985,27,Male,user985@email.com,+1-555-714-4156,2022-09-11,2023-09-12,1686.99,3,Chi,ACTIVE
+986,Customer_986,73,Male,user986@email.com,+1-555-416-5307,2022-09-12,2023-09-13,251.39,5,NYC,Active
+987,Customer_987,47,Female,user987@email.com,+1-555-614-9575,2022-09-13,2023-09-14,651.66,6,Houston,Active
+988,Customer_988,67,Male,user988@email.com,+1-555-790-9533,2022-09-14,2023-09-15,212.18,9,Chi,Active
+989,Customer_989,76,Female,user989@email.com,+1-555-914-4109,2022-09-15,2023-09-16,555.99,6,Houston,active
+990,Customer_990,62,Female,,invalid,2022-09-16,2023-09-17,818.48,7,Chi,cancelled
+991,Customer_991,22,Female,user991@email.com,+1-555-610-4240,2022-09-17,2023-09-18,1466.44,2,Los Angeles,inactive
+992,Customer_992,72,F,user992@email.com,+1-555-442-2849,2022-09-18,2023-09-19,255.59,2,New York,nan
+993,Customer_993,73,F,user993@email.com,+1-555-405-3749,2022-09-19,2023-09-20,764.62,8,Chi,Active
+994,Customer_994,50,Female,user994@email.com,+1-555-968-7680,2022-09-20,2023-09-21,154.57,8,Phoenix,nan
+995,Customer_995,71,male,user995@email.com,+1-555-211-1205,2022-09-21,2023-09-22,2319.48,8,Chi,cancelled
+996,Customer_996,18,Female,user996@email.com,+1-555-284-5591,2022-09-22,2023-09-23,13.05,7,Chi,Inactive
+997,Customer_997,35,female,user997@email.com,+1-555-478-8214,2022-09-23,2023-09-24,462.58,6,New York,nan
+998,Customer_998,49,Male,user998@email.com,+1-555-985-4811,2022-09-24,2023-09-25,538.68,2,Houston,Active
+999,Customer_999,64,nan,user999@email.com,+1-555-650-6141,2022-09-25,2023-09-26,582.45,7,Chicago,cancelled
+1000,Customer_1000,66,M,,+1-555-312-9501,2022-09-26,2023-09-27,64.14,6,Phoenix,cancelled
+1,Customer_1,56,Female,user1@email.com,+1-555-150-1140,2020-01-01,2021-01-01,446.58,5,Phoenix,ACTIVE
+2,Customer_2,69,F,user2@email.com,+1-555-569-5882,2020-01-02,2021-01-02,540.9,3,Chi,Active
+3,Customer_3,46,Female,user3@email.com,+1-555-901-7012,2020-01-03,2021-01-03,40.85,4,Houston,active
+4,Customer_4,32,male,user4@email.com,+1-555-472-4610,2020-01-04,2021-01-04,393.18,2,New York,ACTIVE
+5,Customer_5,60,Female,user5@email.com,+1-555-768-7894,2020-01-05,2021-01-05,617.77,2,Phoenix,Active
+6,Customer_6,25,Male,user6@email.com,+1-555-255-8311,2020-01-06,2021-01-06,91.55,7,Los Angeles,cancelled
+7,Customer_7,78,Male,user7@email.com,+1-555-205-6539,2020-01-07,2021-01-07,758.5,3,New York,inactive
+8,Customer_8,38,Male,user8@email.com,+1-555-769-7787,2020-01-08,2021-01-08,438.26,1,LA,nan
+9,Customer_9,56,Male,user9@email.com,+1-555-189-5445,2020-01-09,2021-01-09,1520.59,3,Houston,Inactive
+10,Customer_10,75,Male,,+1-555-558-2286,2020-01-10,2021-01-10,21.67,7,Chi,Active
+11,Customer_11,36,M,user11@email.com,+1-555-450-8052,2020-01-11,2021-01-11,154.16,5,LA,active
+12,Customer_12,40,Female,user12@email.com,+1-555-258-4654,2020-01-12,2021-01-12,460.09,5,NYC,Active
+13,Customer_13,28,F,user13@email.com,+1-555-411-9105,2020-01-13,2021-01-13,175.89,4,New York,nan
+14,Customer_14,28,nan,user14@email.com,+1-555-544-7441,2020-01-14,2021-01-14,626.62,5,Chicago,Active
+15,Customer_15,41,Female,user15@email.com,invalid,2020-01-15,2021-01-15,711.49,5,New York,ACTIVE
+16,Customer_16,70,F,user16@email.com,+1-555-135-6203,2020-01-16,2021-01-16,54.08,3,Chi,active
+17,Customer_17,53,F,user17@email.com,+1-555-551-2798,2020-01-17,2021-01-17,360.62,3,New York,Inactive
+18,Customer_18,57,Female,user18@email.com,+1-555-921-6291,2020-01-18,2021-01-18,355.54,6,Los Angeles,Active
+19,Customer_19,41,Male,user19@email.com,+1-555-475-7284,2020-01-19,2021-01-19,230.45,6,Houston,inactive
+20,Customer_20,20,Male,,+1-555-986-8285,2020-01-20,2021-01-20,1350.97,4,Los Angeles,active
+21,Customer_21,39,Male,user21@email.com,+1-555-376-7869,2020-01-21,2021-01-21,878.7,9,Los Angeles,Active
+22,Customer_22,70,Male,user22@email.com,+1-555-319-4097,2020-01-22,2021-01-22,597.36,6,Phoenix,nan
+23,Customer_23,19,Male,user23@email.com,+1-555-620-1009,2020-01-23,2021-01-23,626.45,5,New York,Inactive
+24,Customer_24,41,female,user24@email.com,+1-555-477-6752,2020-01-24,2021-01-24,309.68,5,New York,Inactive
+25,Customer_25,61,F,user25@email.com,+1-555-736-7295,2020-01-25,2021-01-25,1269.12,4,Chicago,active
+26,Customer_26,47,Male,user26@email.com,+1-555-819-2072,2020-01-26,2021-01-26,593.06,10,NYC,Active
+27,Customer_27,55,Male,user27@email.com,+1-555-253-2316,2020-01-27,2021-01-27,652.78,6,Phoenix,nan
+28,Customer_28,19,Male,user28@email.com,+1-555-679-7807,2020-01-28,2021-01-28,989.13,2,Chicago,Inactive
+29,Customer_29,77,Female,user29@email.com,+1-555-630-4683,2020-01-29,2021-01-29,160.15,4,Phoenix,Active
+30,Customer_30,38,Female,,invalid,2020-01-30,2021-01-30,822.72,3,Chicago,Inactive
+31,Customer_31,50,male,user31@email.com,+1-555-159-4273,2020-01-31,2021-01-31,108.61,2,Chi,inactive
+32,Customer_32,29,Female,user32@email.com,+1-555-956-1145,2020-02-01,2021-02-01,211.82,5,New York,active
+33,Customer_33,75,male,user33@email.com,+1-555-775-4040,2020-02-02,2021-02-02,204.44,6,NYC,inactive
+34,Customer_34,39,nan,user34@email.com,+1-555-538-1482,2020-02-03,2021-02-03,1920.44,5,Chi,Active
+35,Customer_35,78,Male,user35@email.com,+1-555-207-2249,2020-02-04,2021-02-04,970.84,10,LA,Active
+36,Customer_36,61,F,user36@email.com,+1-555-772-1630,2020-02-05,2021-02-05,603.94,5,New York,cancelled
+37,Customer_37,42,Female,user37@email.com,+1-555-760-9853,2020-02-06,2021-02-06,649.25,5,Los Angeles,Active
+38,Customer_38,66,Female,user38@email.com,+1-555-531-3852,2020-02-07,2021-02-07,412.85,4,NYC,cancelled
+39,Customer_39,44,Female,user39@email.com,+1-555-754-1987,2020-02-08,2021-02-08,1469.59,4,New York,Active
+40,Customer_40,76,F,,+1-555-554-8327,2020-02-09,2021-02-09,342.85,3,LA,cancelled
+41,Customer_41,59,M,user41@email.com,+1-555-622-9841,2020-02-10,2021-02-10,239.44,6,NYC,Inactive
+42,Customer_42,45,male,user42@email.com,+1-555-689-2100,2020-02-11,2021-02-11,88.99,4,NYC,inactive
+43,Customer_43,77,nan,user43@email.com,+1-555-608-9632,2020-02-12,2021-02-12,771.37,2,New York,Active
+44,Customer_44,33,M,user44@email.com,+1-555-353-6016,2020-02-13,2021-02-13,662.96,9,NYC,Active
+45,Customer_45,32,nan,user45@email.com,invalid,2020-02-14,2021-02-14,242.54,5,NYC,Active
+46,Customer_46,79,M,user46@email.com,+1-555-869-2343,2020-02-15,2021-02-15,12.76,9,LA,Active
+47,Customer_47,79,M,user47@email.com,+1-555-902-5358,2020-02-16,2021-02-16,913.17,5,New York,Inactive
+48,Customer_48,64,Female,user48@email.com,+1-555-696-7780,2020-02-17,2021-02-17,5.74,5,New York,active
+49,Customer_49,79,Male,user49@email.com,+1-555-266-7602,2020-02-18,2021-02-18,608.19,1,Chicago,active
+50,Customer_50,68,F,,+1-555-379-3349,2020-02-19,2021-02-19,1757.58,5,New York,ACTIVE
